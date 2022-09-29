@@ -18,8 +18,9 @@
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-  - Adversarial Team Games - hello
-  _cache: 334da934efddbbd29dab2d3de6c49bd5755e6dfa3e651283f25914bfac2ed5de
+  - Adversarial Team Games
+  - This is a test
+  _cache: d7e9b6c7f605023ae6bce84c0b67bb2b62af40bdd328b7e8a4f4107153246fb9
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
