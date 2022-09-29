@@ -17,11 +17,7 @@
   extra-links:
   - type: source
     link: https://github.com/steliostavroulakis/AdversarialTeamGames
-  tags:
-  - Adversarial Team Games
-  - Co-ordination
-  - Competition
-  _cache: 84d5e7dc50be7ac763ac2d8806b112f1fcea6f34f6ab4326d7b89da0b22269b9
+  _cache: a0420084563ba8c363181adf16182e24ab91a18b0ee599941309c68135606d9f
 - id: arxiv:2111.04178
   title: 'Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum
     Games'
@@ -44,7 +40,9 @@
   publisher: arXiv
   date: '2022-03-24'
   link: https://arxiv.org/abs/2203.12074
-  _cache: 1e7951b08b8027ed47291d06507917c851f2068dc03fdfcd6b9705d9c96417af
+  tags:
+  - NeurIPS 2022
+  _cache: 150acbd1bdd8a6a622401f8787aca130214f26300ade1e1574e165cb3dc2583c
 - id: arxiv:2203.12056
   title: On Last-Iterate Convergence Beyond Zero-Sum Games
   authors:
@@ -102,7 +100,9 @@
   publisher: arXiv
   date: '2021-11-09'
   link: https://arxiv.org/abs/2109.04603
-  _cache: 17bb5e051d26d27feb8b5f997cefd04febfabbf4ad775974f3be22fe411492c9
+  tags:
+  - SOSA 2022
+  _cache: c023a993d569e58d25e45db056d6de3cd3d744a7331cad96420b7fb1f036374c
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
