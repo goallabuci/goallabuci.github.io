@@ -33,6 +33,72 @@
   date: '2021-12-01'
   link: https://arxiv.org/abs/2111.04178
   _cache: 29346069f8b063260c09be764634514266c7462d4340d2e3da1e0252acbe1ea5
+- id: arxiv:2203.12074
+  title: Optimistic Mirror Descent Either Converges to Nash or to Strong Coarse Correlated
+    Equilibria in Bimatrix Games
+  authors:
+  - Ioannis Anagnostides
+  - Gabriele Farina
+  - Ioannis Panageas
+  - Tuomas Sandholm
+  publisher: arXiv
+  date: '2022-03-24'
+  link: https://arxiv.org/abs/2203.12074
+  _cache: 1e7951b08b8027ed47291d06507917c851f2068dc03fdfcd6b9705d9c96417af
+- id: arxiv:2203.12056
+  title: On Last-Iterate Convergence Beyond Zero-Sum Games
+  authors:
+  - Ioannis Anagnostides
+  - Ioannis Panageas
+  - Gabriele Farina
+  - Tuomas Sandholm
+  publisher: arXiv
+  date: '2022-03-24'
+  link: https://arxiv.org/abs/2203.12056
+  _cache: 08de90bb4b0801eb203fb2d16797d431931f7aacd8004f3a0ab8c66fd7feae85
+- id: arxiv:2204.11407
+  title: Accelerated Multiplicative Weights Update Avoids Saddle Points almost always
+  authors:
+  - Yi Feng
+  - Ioannis Panageas
+  - Xiao Wang
+  publisher: arXiv
+  date: '2022-04-26'
+  link: https://arxiv.org/abs/2204.11407
+  _cache: 51ea741f7fa71afb2caa074332f1b6a9e23691a739a9a11bb77e7cb1bad7a9ca
+- id: arxiv:2110.10614
+  title: Independent Natural Policy Gradient Always Converges in Markov Potential
+    Games
+  authors:
+  - Roy Fox
+  - Stephen McAleer
+  - Will Overman
+  - Ioannis Panageas
+  publisher: arXiv
+  date: '2021-10-22'
+  link: https://arxiv.org/abs/2110.10614
+  _cache: 66ca41d2b5c48ac590da72525cb9b29f9e1d0dae88540411fbfc22c9828de332
+- id: arxiv:2106.01969
+  title: Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games
+  authors:
+  - Stefanos Leonardos
+  - Will Overman
+  - Ioannis Panageas
+  - Georgios Piliouras
+  publisher: arXiv
+  date: '2021-09-30'
+  link: https://arxiv.org/abs/2106.01969
+  _cache: 9e9d9847198262625147b59155a78227212ef0398240f18a7fb279af44739a29
+- id: arxiv:2109.04603
+  title: 'Frequency-Domain Representation of First-Order Methods: A Simple and Robust
+    Framework of Analysis'
+  authors:
+  - Ioannis Anagnostides
+  - Ioannis Panageas
+  publisher: arXiv
+  date: '2021-11-09'
+  link: https://arxiv.org/abs/2109.04603
+  _cache: 17bb5e051d26d27feb8b5f997cefd04febfabbf4ad775974f3be22fe411492c9
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
