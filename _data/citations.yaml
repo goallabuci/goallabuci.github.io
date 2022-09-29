@@ -11,15 +11,15 @@
   - Vaggos Chatziafratis
   - Stelios Stavroulakis
   publisher: arXiv
-  date: '2020-06-02'
+  date: '2022-08-03'
   link: https://arxiv.org/abs/2208.02204
   image: images/papers/advteamgames.png
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-  - knowledge graphs
-  _cache: 2ca6422e23f2c45824b923fcf227cd14037b59e7930056199b2a2abfef3791c5
+  - Adversarial Team Games - hello
+  _cache: 334da934efddbbd29dab2d3de6c49bd5755e6dfa3e651283f25914bfac2ed5de
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
