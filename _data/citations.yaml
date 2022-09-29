@@ -28,11 +28,10 @@
   - Ioannis Panageas
   - Clayton Sanford
   - Stelios Stavroulakis
-  publisher: NeurIPS
   extra-links:
   - type: preprint
     link: https://openreview.net/forum?id=k5idxiVdJ3p
-  _cache: 264ca910d8b7461a490d4b70e7edca1cc111dcd46ae6f2977ce3524b9c79e453
+  _cache: 6ddd40b99b0eaee0b8cd2c266761365e67a0ce7d8ea044553f78b823d68f81e0
   date: ''
 - id: arxiv:2111.04178
   title: 'Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum
