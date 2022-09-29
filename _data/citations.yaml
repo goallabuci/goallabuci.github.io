@@ -55,7 +55,9 @@
   publisher: arXiv
   date: '2022-03-24'
   link: https://arxiv.org/abs/2203.12056
-  _cache: 08de90bb4b0801eb203fb2d16797d431931f7aacd8004f3a0ab8c66fd7feae85
+  tags:
+  - ICML 2022
+  _cache: dc441ccd107ce0547865e0711a0c253f20223640762edd46b75fbdb72a4badcc
 - id: arxiv:2204.11407
   title: Accelerated Multiplicative Weights Update Avoids Saddle Points almost always
   authors:
@@ -65,7 +67,9 @@
   publisher: arXiv
   date: '2022-04-26'
   link: https://arxiv.org/abs/2204.11407
-  _cache: 51ea741f7fa71afb2caa074332f1b6a9e23691a739a9a11bb77e7cb1bad7a9ca
+  tags:
+  - IJCAI 2022
+  _cache: 093b7304b5415a8eeb2825efdcd1ea1b160a12c67cb47102590aa10edf7e9010
 - id: arxiv:2110.10614
   title: Independent Natural Policy Gradient Always Converges in Markov Potential
     Games
