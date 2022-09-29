@@ -15,12 +15,13 @@
   link: https://arxiv.org/abs/2208.02204
   image: images/papers/advteamgames.png
   extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - type: source
+    link: https://github.com/steliostavroulakis/AdversarialTeamGames
   tags:
   - Adversarial Team Games
-  - This is a test
-  _cache: d7e9b6c7f605023ae6bce84c0b67bb2b62af40bdd328b7e8a4f4107153246fb9
+  - Co-ordination
+  - Competition
+  _cache: 80494792427d7979a5383ebf28fe76f07a3b5c9d06f2877f3e096bd0c1f21a1c
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
