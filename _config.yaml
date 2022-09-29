@@ -4,8 +4,8 @@
 title: GOAL-Lab
 description: The Games Optimization Algorithms Learning Group at UCI.
 logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+header: None
+footer: None
 baseurl: ""
 
 # site social media and other links
