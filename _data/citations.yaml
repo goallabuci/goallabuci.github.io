@@ -1,21 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: arxiv:2208.02204
+  title: Efficiently Computing Nash Equilibria in Adversarial Team Markov Games
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+  - Fivos Kalogiannis
+  - Ioannis Anagnostides
+  - Ioannis Panageas
+  - Emmanouil-Vasileios Vlatakis-Gkaragkounis
+  - Vaggos Chatziafratis
+  - Stelios Stavroulakis
+  publisher: arXiv
   date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  link: https://arxiv.org/abs/2208.02204
+  image: images/papers/advteamgames.png
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
+  _cache: 2ca6422e23f2c45824b923fcf227cd14037b59e7930056199b2a2abfef3791c5
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
