@@ -1,11 +1,11 @@
 - id: arxiv:2208.02204
   image: images/papers/advteamgames.png
-  date: 2020-6-2
+  date: 2022-8-3
   extra-links:
     - type: manubot
       link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-    - knowledge graphs
+    - Adversarial Team Games - hello
 
 - id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
