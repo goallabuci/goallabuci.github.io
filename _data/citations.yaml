@@ -22,17 +22,6 @@
   - Co-ordination
   - Competition
   _cache: 84d5e7dc50be7ac763ac2d8806b112f1fcea6f34f6ab4326d7b89da0b22269b9
-- title: On Scrambling Phenomena for Randomly Initialized Recurrent Networks
-  authors:
-  - Vaggos Chatziafratis
-  - Ioannis Panageas
-  - Clayton Sanford
-  - Stelios Stavroulakis
-  extra-links:
-  - type: preprint
-    link: https://openreview.net/forum?id=k5idxiVdJ3p
-  _cache: 6ddd40b99b0eaee0b8cd2c266761365e67a0ce7d8ea044553f78b823d68f81e0
-  date: ''
 - id: arxiv:2111.04178
   title: 'Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum
     Games'
