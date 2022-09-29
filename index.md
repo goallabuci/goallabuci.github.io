@@ -25,10 +25,6 @@ Spend less time reinventing the wheel, and more time running your lab.
 %}
 {:.center}
 
-{% include section.html full=true %}
-
-{% include section.html %}
-
 # Highlights
 
 {% capture text %}
