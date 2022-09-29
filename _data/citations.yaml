@@ -11,7 +11,7 @@
   - Vaggos Chatziafratis
   - Stelios Stavroulakis
   publisher: arXiv
-  date: '2022-08-03'
+  date: '2022-08-04'
   link: https://arxiv.org/abs/2208.02204
   image: images/papers/advteamgames.png
   extra-links:
@@ -21,7 +21,18 @@
   - Adversarial Team Games
   - Co-ordination
   - Competition
-  _cache: 80494792427d7979a5383ebf28fe76f07a3b5c9d06f2877f3e096bd0c1f21a1c
+  _cache: 84d5e7dc50be7ac763ac2d8806b112f1fcea6f34f6ab4326d7b89da0b22269b9
+- id: arxiv:2111.04178
+  title: 'Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum
+    Games'
+  authors:
+  - Fivos Kalogiannis
+  - Ioannis Panageas
+  - Emmanouil-Vasileios Vlatakis-Gkaragkounis
+  publisher: arXiv
+  date: '2021-12-01'
+  link: https://arxiv.org/abs/2111.04178
+  _cache: 29346069f8b063260c09be764634514266c7462d4340d2e3da1e0252acbe1ea5
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
