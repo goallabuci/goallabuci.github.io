@@ -3,14 +3,12 @@
   extra-links:
     - type: source
       link: https://github.com/steliostavroulakis/AdversarialTeamGames
-  tags:
-    - Adversarial Team Games 
-    - Co-ordination
-    - Competition
 
 - id: arxiv:2111.04178
 
 - id: arxiv:2203.12074
+  tags:
+    - NeurIPS 2022
 
 - id: arxiv:2203.12056
   tags:
@@ -25,6 +23,8 @@
 - id: arxiv:2106.01969
 
 - id: arxiv:2109.04603
+  tags:
+    - SOSA 2022
 
 - id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
