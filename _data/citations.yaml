@@ -79,7 +79,9 @@
   publisher: arXiv
   date: '2021-10-22'
   link: https://arxiv.org/abs/2110.10614
-  _cache: 66ca41d2b5c48ac590da72525cb9b29f9e1d0dae88540411fbfc22c9828de332
+  tags:
+  - AISTATS 2022
+  _cache: 46a0a23add1f56df0b385ab554a3fb5825a4c9bbde74e467afda6b24701bdd3e
 - id: arxiv:2106.01969
   title: Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games
   authors:
