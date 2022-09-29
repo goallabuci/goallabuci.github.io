@@ -13,8 +13,12 @@
 - id: arxiv:2203.12074
 
 - id: arxiv:2203.12056
+  tags:
+    - ICML 2022
 
 - id: arxiv:2204.11407
+  tags:
+    - IJCAI 2022
 
 - id: arxiv:2110.10614
 
