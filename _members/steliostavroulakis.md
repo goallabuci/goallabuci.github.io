@@ -1,8 +1,8 @@
 ---
 name: Stelios Stavroulakis
-image: images/portraits/panageas.jpg
-description: Principal Investigator
-role: Boss
+image: images/portraits/Panageas.jpg
+description: Member
+role: PhD Student
 aliases:
   - A. Chovie
   - A Chovie
@@ -12,6 +12,4 @@ links:
   github: anne-chovie
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+This is Stelios.
