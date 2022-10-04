@@ -30,8 +30,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include list.html data="members" component="portrait" filters="tier: " %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
-
 These are our collaborators.
 
 {% include section.html %}
