@@ -44,27 +44,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   text=text
 %}
 
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
-
 {% include list.html data="members" component="portrait" filters="tier: first" %}
 {% include list.html data="members" component="portrait" filters="tier: second" %}
 {% include list.html data="members" component="portrait" filters="tier: " %}
