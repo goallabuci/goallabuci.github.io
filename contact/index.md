@@ -19,12 +19,9 @@ Our lab is part of the [Department of Computer Science](https://www.cs.uci.edu/)
   style="button"
 %}
 {:.center}
-
-{% include section.html %}
-
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
- 6210 Donald Bren Hall <br>
+6210 Donald Bren Hall <br>
 Irvine, California 92697  <br>
 USA
 {:.center}
