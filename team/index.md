@@ -20,6 +20,7 @@ Ioannis Panageas is the principal investigator.
   title="Get to know the members of our group"
   text=text
 %}
+{:.center}
 {% endcapture %}
 
 {% include list.html data="members" component="portrait" filters="tier: first" %}
