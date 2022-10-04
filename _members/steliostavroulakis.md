@@ -2,7 +2,7 @@
 name: Stelios Stavroulakis
 image: images/portraits/Stavroulakis.jpg
 description: Member
-role: PhD Student
+role: phd
 aliases:
   - A. Chovie
   - A Chovie
