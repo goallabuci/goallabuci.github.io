@@ -12,8 +12,7 @@ This is the team.
 {% include section.html %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Ioannis Panageas is the principal investigator.
 
 {%
   include link.html
@@ -29,7 +28,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include feature.html
   image="images/portraits/Panageas.jpg"
   link="research"
-  title="Our Research"
+  title="Get to know the members of our group"
   text=text
 %}
 
