@@ -5,8 +5,6 @@ nav:
   tooltip: Published works
 ---
 
-# <i class="fas fa-microscope"></i>Research
-
-Recent publications of GOAL group lab.
+# <i class="fas fa-microscope"></i>Recent publications
 
 {% include list.html data="citations" component="citation" style="rich" %}
