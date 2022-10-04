@@ -12,16 +12,58 @@ This is the team.
 {% include section.html %}
 
 {% capture text %}
-Ioannis Panageas is the principal investigator.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 {%
-  include feature.html
-  image="images/portraits/Panageas.jpg"
+  include link.html
   link="research"
-  title="Get to know the members of our group"
-  text=text
+  text="See what we've published"
+  icon="fas fa-arrow-right"
+  flip=true
 %}
 {:.center}
 {% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Our Research"
+  text=text
+%}
+
+
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="resources"
+  title="Our Resources"
+  flip=true
+  text=text
+%}
+
+{% capture text %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{%
+  include link.html
+  link="team"
+  text="Meet our team"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
 
 {% include list.html data="members" component="portrait" filters="tier: first" %}
 {% include list.html data="members" component="portrait" filters="tier: second" %}
