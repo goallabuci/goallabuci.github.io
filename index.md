@@ -4,6 +4,8 @@ title: Home
 
 <h1> <span STYLE="font-size:25.0pt">G</span>ames <span STYLE="font-size:25.0pt">O</span>ptimization <span STYLE="font-size:25.0pt">A</span>lgorithms <span STYLE="font-size:25.0pt">L</span>earning </h1>
 
+The Games, Optimization, Algorithms, and Learning Lab (GoalLab) studies theory of machine learning  and its interface with learning in games and algorithmic game theory, optimization, dynamical systems, probability and statistics.
+
 # Highlights
 
 {% capture text %}
