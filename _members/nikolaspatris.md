@@ -1,5 +1,5 @@
 ---
-name: Fivos Kalogiannis
+name: Nikolas Patris
 image: images/portraits/Kalogiannis.jpg
 description: Member
 role: PhD Student
