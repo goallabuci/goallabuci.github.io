@@ -1,6 +1,6 @@
 ---
 name: Stelios Stavroulakis
-image: images/portraits/Panageas.jpg
+image: images/portraits/Stavroulakis.jpg
 description: Member
 role: PhD Student
 aliases:
