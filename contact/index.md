@@ -7,8 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Computer Science](https://www.cs.uci.edu/) at [University of California, Irvine](https://uci.edu/). We are located on the 4th floor of the [DBH](https://classrooms.uci.edu/classrooms/dbh/), office 4065.
 
 {%
   include link.html
