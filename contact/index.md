@@ -29,13 +29,8 @@ Our lab is part of the [Department of Computer Science](https://www.cs.uci.edu/)
 USA
 {:.center}
 
-<!-- {% capture col1 %} -->
 {%
   include figure.html
   image="images/DBH_website.png"
   caption="Donald Bren Hall"
 %}
-{% endcapture %}
-<!-- {% capture col2 %}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %} -->
