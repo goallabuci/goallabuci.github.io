@@ -7,9 +7,9 @@ aliases:
   - A. Chovie
   - A Chovie
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  home-page: steliostavroulakis.github.io
+  email: sstavrou@uci.edu
+  github: steliostavroulakis
 ---
 
 This is Stelios.
