@@ -33,17 +33,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   text=text
 %}
 
-
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
-  flip=true
-  text=text
-%}
-
 {% include list.html data="members" component="portrait" filters="tier: first" %}
 {% include list.html data="members" component="portrait" filters="tier: second" %}
 {% include list.html data="members" component="portrait" filters="tier: " %}
