@@ -2,9 +2,7 @@
 title: Home
 ---
 
-# Games Optimization Algorithms Learning
-
-
+<h1> <span STYLE="font-size:25.0pt">G</span>ames <span STYLE="font-size:25.0pt">O</span>ptimization <span STYLE="font-size:25.0pt">A</span>lgorithms <span STYLE="font-size:25.0pt">L</span>earning </h1>
 
 # Highlights
 

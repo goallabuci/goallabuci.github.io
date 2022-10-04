@@ -8,3 +8,9 @@
 * {
   box-sizing: border-box;
 }
+.first-word-uppercase-p::first-letter {
+  font-size: 40px;
+  color: #e80222;
+  font-weight: bold;
+  line-height: .75;
+}
