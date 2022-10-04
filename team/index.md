@@ -11,30 +11,9 @@ This is the team.
 
 {% include section.html %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
+{% include list.html data="members" component="portrait" filters="tier: first" %}
+{% include list.html data="members" component="portrait" filters="tier: second" %}
+{% include list.html data="members" component="portrait" filters="tier: " %}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
