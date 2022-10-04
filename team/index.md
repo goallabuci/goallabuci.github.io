@@ -13,17 +13,6 @@ This is the team.
 
 {% capture text %}
 Ioannis Panageas is the principal investigator.
-
-{%
-  include link.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
 {%
   include feature.html
   image="images/portraits/Panageas.jpg"
