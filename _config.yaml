@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: GOAL-Lab
 description: The Games Optimization Algorithms Learning Group at UCI.
-logo: images/logo.svg
+logo: images/logo.png
 header: None
 footer: None
 baseurl: ""
