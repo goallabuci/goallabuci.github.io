@@ -31,7 +31,7 @@ The PI and the group is actively working on learning in games. Papers include re
 %}
 
 {% capture text %}
-Inspired by the success of Stochastic Gradient Descent in training neural networks, the group has focused on non-convex optimization. Using techniques from dynamical systems, we are able to show that Gradient Descent and other first order methods [avoid strict saddle points](https://arxiv.org/abs/1710.07406).
+Inspired by the success of Stochastic Gradient Descent in training neural networks, the group has focused on non-convex optimization. Using techniques from dynamical systems, we are able to show that Gradient Descent and other first order methods with constant stepsize [avoid strict saddle points](https://arxiv.org/abs/1710.07406). We extend these results for [multiplicative weights update (polytope constraints)](https://arxiv.org/abs/1810.05355) and [time varying stepsizes](https://arxiv.org/abs/1906.07772).
 {:.center}
 {% endcapture %}
 {%
