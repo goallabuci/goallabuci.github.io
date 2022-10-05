@@ -7,10 +7,8 @@ title: Home
 The Games, Optimization, Algorithms, and Learning Lab (GoalLab) studies theory of machine learning  and its interface with learning in games and algorithmic game theory, optimization, dynamical systems, probability and statistics.
 
 # Research Highlights
-Below we provide our main research areas of interest with selected publications
-
 {% capture text %}
-Our recent focus has been on finding Nash equilibria in Markov games. Two representative papers include computing Nash Equilibria in [Adversarial Team Markov Games.](https://arxiv.org/abs/2208.02204) and [in Markov Potential Games.](https://arxiv.org/abs/2106.01969) <br/>
+Our recent focus has been on finding Nash equilibria in Markov games. Two representative papers include computing Nash Equilibria in [Adversarial Team Markov Games.](https://arxiv.org/abs/2208.02204) and [in Markov Potential Games.](https://arxiv.org/abs/2106.01969) Other works include analysis of [natural policy gradient in multi-agent settings](https://arxiv.org/abs/2110.10614).<br/>
 {:.center}
 {% endcapture %}
 {%
@@ -33,7 +31,7 @@ The PI and the group is actively working on learning in games. Papers include re
 %}
 
 {% capture text %}
-Inspired the success of Stochastic Gradient Descent in training neural networks, the group has focused on non-convex optimization. Using techniques from dynamical systems, we are able to show that Gradient Descent and other first order methods [avoid strict saddle points](https://arxiv.org/abs/1710.07406).
+Inspired by the success of Stochastic Gradient Descent in training neural networks, the group has focused on non-convex optimization. Using techniques from dynamical systems, we are able to show that Gradient Descent and other first order methods [avoid strict saddle points](https://arxiv.org/abs/1710.07406).
 {:.center}
 {% endcapture %}
 {%
@@ -57,7 +55,7 @@ Our group has focused on the problem of expressivity of Neural Networks. Using t
 %}
 
 {% capture text %}
-Our team includes 3 PhD students, multiple undergrads and external collaboratos.
+Our team includes 3 PhD students, multiple undergrads and external collaborators.
 {%
   include link.html
   link="team"
