@@ -11,13 +11,13 @@
   - Vaggos Chatziafratis
   - Stelios Stavroulakis
   publisher: arXiv
-  date: '2022-08-04'
+  date: '2018-08-04'
   link: https://arxiv.org/abs/2208.02204
   image: images/papers/advteamgames.png
   extra-links:
   - type: source
     link: https://github.com/steliostavroulakis/AdversarialTeamGames
-  _cache: a0420084563ba8c363181adf16182e24ab91a18b0ee599941309c68135606d9f
+  _cache: 076a31ef2a5109f63bbd9625794b1ef61a36ae74f0d5d23bb7f319678712b9cf
 - id: arxiv:2111.04178
   title: 'Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum
     Games'
