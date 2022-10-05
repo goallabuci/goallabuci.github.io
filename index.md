@@ -36,7 +36,7 @@ Inspired by the success of Stochastic Gradient Descent in training neural networ
 {% endcapture %}
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/nonconvex.png"
   title="Non-convex and min-max optimization"
   flip=true
   text=text
