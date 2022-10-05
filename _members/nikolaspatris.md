@@ -1,6 +1,6 @@
 ---
 name: Nikolas Patris
-image: images/portraits/Kalogiannis.jpg
+image: images/portraits/nikolas.png
 description: Member
 role: phd
 aliases:
@@ -12,4 +12,3 @@ links:
   github: anne-chovie
 ---
 
-This is Nikolas.
