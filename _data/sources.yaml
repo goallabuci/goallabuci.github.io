@@ -6,6 +6,17 @@
       link: https://github.com/steliostavroulakis/AdversarialTeamGames
 
 - id: arxiv:2111.04178
+  date: '2018-08-03'
+  
+- title: On Scrambling Phenomena for Randomly Initialized Recurrent Networks
+  authors:
+    - Vaggos Chatziafratis
+    - Ioannis Panageas
+    - Clayton Sanford
+    - Stelios Stavroulakis
+  date: '2018-08-02'
+  tags:
+    - NeurIPS 2022
 
 - id: arxiv:2203.12074
   tags:
