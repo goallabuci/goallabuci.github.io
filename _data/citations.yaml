@@ -1,34 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: arxiv:2208.02204
-  title: Efficiently Computing Nash Equilibria in Adversarial Team Markov Games
-  authors:
-  - Fivos Kalogiannis
-  - Ioannis Anagnostides
-  - Ioannis Panageas
-  - Emmanouil-Vasileios Vlatakis-Gkaragkounis
-  - Vaggos Chatziafratis
-  - Stelios Stavroulakis
-  publisher: arXiv
-  date: '2018-08-04'
-  link: https://arxiv.org/abs/2208.02204
-  image: images/papers/advteamgames.png
-  extra-links:
-  - type: source
-    link: https://github.com/steliostavroulakis/AdversarialTeamGames
-  _cache: 076a31ef2a5109f63bbd9625794b1ef61a36ae74f0d5d23bb7f319678712b9cf
-- id: arxiv:2111.04178
-  title: 'Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum
-    Games'
-  authors:
-  - Fivos Kalogiannis
-  - Ioannis Panageas
-  - Emmanouil-Vasileios Vlatakis-Gkaragkounis
-  publisher: arXiv
-  date: '2018-08-03'
-  link: https://arxiv.org/abs/2111.04178
-  _cache: 8e55128f0d43f235e47a097cfe3fd6c33fc44d51dbb2fa9a559d10a32f0af016
 - title: On Scrambling Phenomena for Randomly Initialized Recurrent Networks
   authors:
   - Vaggos Chatziafratis
@@ -39,81 +11,13 @@
   tags:
   - NeurIPS 2022
   _cache: 45c605f8e092f71b815b7e89416f49b35677abd6eb8fd31c2fe4a2ba47ed2dd7
-- id: arxiv:2203.12074
-  title: Optimistic Mirror Descent Either Converges to Nash or to Strong Coarse Correlated
-    Equilibria in Bimatrix Games
+- title: Another paper
   authors:
-  - Ioannis Anagnostides
-  - Gabriele Farina
+  - Vaggos Chatziafratis
   - Ioannis Panageas
-  - Tuomas Sandholm
-  publisher: arXiv
-  date: '2022-03-24'
-  link: https://arxiv.org/abs/2203.12074
+  - Clayton Sanford
+  - Stelios Stavroulakis
+  date: '2018-08-03'
   tags:
   - NeurIPS 2022
-  _cache: 150acbd1bdd8a6a622401f8787aca130214f26300ade1e1574e165cb3dc2583c
-- id: arxiv:2203.12056
-  title: On Last-Iterate Convergence Beyond Zero-Sum Games
-  authors:
-  - Ioannis Anagnostides
-  - Ioannis Panageas
-  - Gabriele Farina
-  - Tuomas Sandholm
-  publisher: arXiv
-  date: '2022-03-24'
-  link: https://arxiv.org/abs/2203.12056
-  tags:
-  - ICML 2022
-  _cache: dc441ccd107ce0547865e0711a0c253f20223640762edd46b75fbdb72a4badcc
-- id: arxiv:2204.11407
-  title: Accelerated Multiplicative Weights Update Avoids Saddle Points almost always
-  authors:
-  - Yi Feng
-  - Ioannis Panageas
-  - Xiao Wang
-  publisher: arXiv
-  date: '2022-04-26'
-  link: https://arxiv.org/abs/2204.11407
-  tags:
-  - IJCAI 2022
-  _cache: 093b7304b5415a8eeb2825efdcd1ea1b160a12c67cb47102590aa10edf7e9010
-- id: arxiv:2110.10614
-  title: Independent Natural Policy Gradient Always Converges in Markov Potential
-    Games
-  authors:
-  - Roy Fox
-  - Stephen McAleer
-  - Will Overman
-  - Ioannis Panageas
-  publisher: arXiv
-  date: '2021-10-22'
-  link: https://arxiv.org/abs/2110.10614
-  tags:
-  - AISTATS 2022
-  _cache: 46a0a23add1f56df0b385ab554a3fb5825a4c9bbde74e467afda6b24701bdd3e
-- id: arxiv:2106.01969
-  title: Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games
-  authors:
-  - Stefanos Leonardos
-  - Will Overman
-  - Ioannis Panageas
-  - Georgios Piliouras
-  publisher: arXiv
-  date: '2021-09-30'
-  link: https://arxiv.org/abs/2106.01969
-  tags:
-  - ICLR 2022
-  _cache: a490387624e0c2e272f60e89b5ddce2f9523bb903c7ce2a18d0a2fb16093408b
-- id: arxiv:2109.04603
-  title: 'Frequency-Domain Representation of First-Order Methods: A Simple and Robust
-    Framework of Analysis'
-  authors:
-  - Ioannis Anagnostides
-  - Ioannis Panageas
-  publisher: arXiv
-  date: '2021-11-09'
-  link: https://arxiv.org/abs/2109.04603
-  tags:
-  - SOSA 2022
-  _cache: c023a993d569e58d25e45db056d6de3cd3d744a7331cad96420b7fb1f036374c
+  _cache: 17b193ae688ad517e400d567f7acc283f0112d8b6fc532970e8c65d0e8bba09e
