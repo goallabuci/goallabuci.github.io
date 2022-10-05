@@ -26,7 +26,7 @@ The PI and the group is actively working on learning in games. Papers include re
 {% endcapture %}
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lastiterate.png"
   title="Learning in Games"
   flip=true
   text=text
