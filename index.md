@@ -10,8 +10,7 @@ The Games, Optimization, Algorithms, and Learning Lab (GoalLab) studies theory o
 Below we provide our main research areas of interest with selected publications
 
 {% capture text %}
-[Efficiently Computing Nash Equilibria in Adversarial Team Markov Games.](https://arxiv.org/abs/2208.02204) <br/>
-[Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games.](https://arxiv.org/abs/2106.01969) _<font color="red">ICLR 2022</font>_ <br/>
+Our recent focus has been on finding Nash equilibria in Markov games. Two representative papers include computing Nash Equilibria in [Adversarial Team Markov Games.](https://arxiv.org/abs/2208.02204) and [in Markov Potential Games.](https://arxiv.org/abs/2106.01969) <br/>
 {:.center}
 {% endcapture %}
 {%
