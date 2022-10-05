@@ -7,4 +7,4 @@ nav:
 
 # <i class="fas fa-microscope"></i>Recent publications
 
-{% include list.html data="citations" component="citation" %}
+{% include list.html data="citations" component="citation" style="rich" %}
