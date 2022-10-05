@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>Principal Investigator: Ioannis Panageas
 
 
 {% capture text %}
@@ -14,8 +14,7 @@ Principal Investigator: Ioannis Panageas{% endcapture %}
 {%
   include feature.html
   image="images/portraits/Panageas.jpg"
-  link="research"
-  title="Meet our team"
+  link="https://panageas.github.io/"
   text=text
 %}
 
