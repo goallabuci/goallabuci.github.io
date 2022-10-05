@@ -8,12 +8,11 @@
   tags:
     - NeurIPS 2022
 
-- title: Another paper
+# a source (no id field provided)
+- title: Some Publication Title
   authors:
-    - Vaggos Chatziafratis
-    - Ioannis Panageas
-    - Clayton Sanford
-    - Stelios Stavroulakis
-  date: '2018-08-03'
-  tags:
-    - NeurIPS 2022
+    - Steve McQueen
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
