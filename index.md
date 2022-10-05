@@ -9,8 +9,6 @@ The Games, Optimization, Algorithms, and Learning Lab (GoalLab) studies theory o
 # Research Highlights
 Below we provide our main research areas of interest with selected publications
 
-{% capture text %}
-Thrile ole
 
 {%
   include feature.html
@@ -18,19 +16,10 @@ Thrile ole
   title="Multi-agent Reinforcement Learning"
   text= text
 %}
-{:.center}
-{% endcapture %}
 
 {% capture text %}
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-{%
-  include link.html
-  link="tools"
-  text="Browse our tools"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
 {:.center}
 {% endcapture %}
 {%
