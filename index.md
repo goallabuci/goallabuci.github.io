@@ -9,37 +9,71 @@ The Games, Optimization, Algorithms, and Learning Lab (GoalLab) studies theory o
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{%
-  include link.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
+Multi-agent Reinforcement Learning
 
 {%
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Multi-agent Reinforcement Learning"
   text=text
 %}
 
+{% capture text %}
+Learning in Games
 
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Learning in Games"
+  text=text
+%}
 
+{% capture text %}
+Non-convex optimization and Dynamical Systems
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Learning in Games"
+  text=text
+%}
+
+{% capture text %}
+Deep learning theory
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Learning in Games"
+  text=text
+%}
+
+{% capture text %}
+Deep learning theory
 {%
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Our Resources"
+  title="Probability and Statistics"
   flip=true
   text=text
 %}
+
+{% capture text %}
+Probability and Statistics
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="resources"
+  title="Probability and Statistics"
+  flip=true
+  text=text
+%}
+
 
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
