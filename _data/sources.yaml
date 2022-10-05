@@ -1,5 +1,6 @@
 - id: arxiv:2208.02204
   image: images/papers/advteamgames.png
+  date: '2018-08-04'
   extra-links:
     - type: source
       link: https://github.com/steliostavroulakis/AdversarialTeamGames
