@@ -48,7 +48,7 @@ Our group has focused on the problem of expressivity of Neural Networks. Using t
 {% endcapture %}
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/neuralmap.png"
   title="Deep Learning Theory"
   flip=true
   text=text
