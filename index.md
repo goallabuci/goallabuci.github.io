@@ -74,4 +74,3 @@ Our team includes 3 PhD students, multiple undergrads and external collaboratos.
   title="Our Team"
   text=text
 %}
-
