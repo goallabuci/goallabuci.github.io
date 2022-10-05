@@ -45,13 +45,13 @@ The PI and the group is actively working on learning in games. Papers include re
 %}
 
 {% capture text %}
-The PI and the group is actively working on learning in games. Papers include results on last iterate convergence such as 
+Our group has focused on the problem of expressivity of Neural Networks. Using techniques from Dynamical systems, we are able to prove [tradeoffs between the depth and the width in feedforward Neural Networks](https://arxiv.org/abs/1912.04378). Here is also a [follow-up paper](https://arxiv.org/abs/2003.00777) that strenghtens the results.
 {:.center}
 {% endcapture %}
 {%
   include feature.html
   image="images/photo.jpg"
-  title="Learning in Games"
+  title="Deep Learning Theory"
   flip=true
   text=text
 %}
