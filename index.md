@@ -18,6 +18,8 @@ Multi-agent Reinforcement Learning
   title="Multi-agent Reinforcement Learning"
   text=text
 %}
+{:.center}
+{% endcapture %}
 
 {% capture text %}
 Learning in Games
@@ -29,6 +31,8 @@ Learning in Games
   title="Learning in Games"
   text=text
 %}
+{:.center}
+{% endcapture %}
 
 {% capture text %}
 Non-convex optimization and Dynamical Systems
@@ -40,6 +44,8 @@ Non-convex optimization and Dynamical Systems
   title="Learning in Games"
   text=text
 %}
+{:.center}
+{% endcapture %}
 
 {% capture text %}
 Deep learning theory
@@ -51,6 +57,8 @@ Deep learning theory
   title="Learning in Games"
   text=text
 %}
+{:.center}
+{% endcapture %}
 
 {% capture text %}
 Deep learning theory
@@ -62,6 +70,9 @@ Deep learning theory
   flip=true
   text=text
 %}
+{:.center}
+{% endcapture %}
+
 
 {% capture text %}
 Probability and Statistics
@@ -73,6 +84,8 @@ Probability and Statistics
   flip=true
   text=text
 %}
+{:.center}
+{% endcapture %}
 
 
 {% capture text %}
