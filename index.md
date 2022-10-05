@@ -12,7 +12,7 @@ Below we provide our main research areas of interest with selected publications
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/papers/advteamgames.png"
   link="research"
   title="Multi-agent Reinforcement Learning"
   text=text
