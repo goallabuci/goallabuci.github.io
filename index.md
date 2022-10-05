@@ -33,7 +33,7 @@ The PI and the group is actively working on learning in games. Papers include re
 %}
 
 {% capture text %}
-The PI and the group is actively working on learning in games. Papers include results on last iterate convergence such as 
+The PI and the group is actively working on learning in games. Papers include results on last iterate convergence using optimism in [zero-sum games](https://arxiv.org/abs/1807.04252) and [beyond](https://arxiv.org/abs/2203.12056) (like potential games). Other works include proving [cycling](https://arxiv.org/abs/1710.11249) or even [chaotic behavior](https://arxiv.org/abs/1810.05355) of the learning dynamics, the analysis of [average performance](https://arxiv.org/abs/1403.3885) of learning in games and stability analysis in [evolutionary dynamics](https://arxiv.org/abs/1408.6270).
 {:.center}
 {% endcapture %}
 {%
