@@ -10,6 +10,10 @@ The Games, Optimization, Algorithms, and Learning Lab (GoalLab) studies theory o
 Below we provide our main research areas of interest with selected publications
 
 {% capture text %}
+{%
+%}
+{:.center}
+{% endcapture %}
 
 {%
   include feature.html
