@@ -33,13 +33,13 @@ The PI and the group is actively working on learning in games. Papers include re
 %}
 
 {% capture text %}
-The PI and the group is actively working on learning in games. Papers include results on last iterate convergence using optimism in [zero-sum games](https://arxiv.org/abs/1807.04252) and [beyond](https://arxiv.org/abs/2203.12056) (like potential games). Other works include proving [cycling](https://arxiv.org/abs/1710.11249) or even [chaotic behavior](https://arxiv.org/abs/1810.05355) of the learning dynamics, the analysis of [average performance](https://arxiv.org/abs/1403.3885) of learning in games and stability analysis in [evolutionary dynamics](https://arxiv.org/abs/1408.6270).
+Inspired the success of Stochastic Gradient Descent in training neural networks, the group has focused on non-convex optimization. Using techniques from dynamical systems, we are able to show that Gradient Descent and other first order methods [avoid strict saddle points](https://arxiv.org/abs/1710.07406).
 {:.center}
 {% endcapture %}
 {%
   include feature.html
   image="images/photo.jpg"
-  title="Learning in Games"
+  title="Non-convex and min-max optimization"
   flip=true
   text=text
 %}
