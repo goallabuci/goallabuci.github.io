@@ -2,7 +2,7 @@
 name: Nikolas Patris
 image: images/portraits/Kalogiannis.jpg
 description: Member
-role: PhD Student
+role: phd
 aliases:
   - A. Chovie
   - A Chovie
