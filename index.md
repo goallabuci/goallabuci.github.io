@@ -7,18 +7,10 @@ title: Home
 The Games, Optimization, Algorithms, and Learning Lab (GoalLab) studies theory of machine learning  and its interface with learning in games and algorithmic game theory, optimization, dynamical systems, probability and statistics.
 
 # Research Highlights
+Below we provide our main research areas of interest with selected publications
 
 {% capture text %}
-Below we provide our main research areas of interest with selected publications
-{%
-  include link.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
+
 {%
   include feature.html
   image="images/photo.jpg"
