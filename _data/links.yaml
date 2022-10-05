@@ -22,7 +22,7 @@ email:
   icon: fas fa-envelope
   text: Email
   tooltip: Email
-  link: mailto:$goallabuci@gmail.com
+  link: $LINK
 
 address:
   icon: fas fa-map-marked-alt
