@@ -16,7 +16,7 @@ home-page:
   icon: fas fa-home
   text: Home Page
   tooltip: Home page
-  link: $https://goallabuci.github.io/
+  link: $LINK
 
 email:
   icon: fas fa-envelope
