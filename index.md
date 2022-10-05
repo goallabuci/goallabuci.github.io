@@ -9,13 +9,18 @@ The Games, Optimization, Algorithms, and Learning Lab (GoalLab) studies theory o
 # Research Highlights
 Below we provide our main research areas of interest with selected publications
 
+{% capture text %}
+Thrile ole
 
 {%
   include feature.html
   image="images/papers/advteamgames.png"
   title="Multi-agent Reinforcement Learning"
-  text= "Mpla"
+  text= text
 %}
+{:.center}
+{% endcapture %}
+
 {% capture text %}
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
