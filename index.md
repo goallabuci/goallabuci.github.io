@@ -53,7 +53,7 @@ Our group has focused on the problem of expressivity of Neural Networks. Using t
   flip=true
   text=text
 %}
-
+# Team Members
 {% capture text %}
 Our team includes 3 PhD students, multiple undergrads and external collaborators.
 {%
