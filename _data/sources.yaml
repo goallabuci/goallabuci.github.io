@@ -7,12 +7,3 @@
   date: 2021-01-01
   tags:
     - NeurIPS 2022
-
-# a source (no id field provided)
-- title: Some Publication Title
-  authors:
-    - Steve McQueen
-    - Lightning McQueen
-  publisher: bioRxiv
-  date: 2021-01-01
-  link: biorxiv.org/1234
