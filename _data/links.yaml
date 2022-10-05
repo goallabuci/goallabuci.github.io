@@ -18,12 +18,6 @@ home-page:
   tooltip: Home page
   link: $LINK
 
-email:
-  icon: fas fa-envelope
-  text: Email
-  tooltip: Email
-  link: $LINK
-
 address:
   icon: fas fa-map-marked-alt
   text: Address
