@@ -21,20 +21,43 @@ Our recent focus has been on finding Nash equilibria in Markov games. Two repres
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The PI and the group is actively working on learning in games. Papers include results on last iterate convergence such as 
 {:.center}
 {% endcapture %}
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  title="Learning in Games"
   flip=true
   text=text
 %}
+
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The PI and the group is actively working on learning in games. Papers include results on last iterate convergence such as 
+{:.center}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="Learning in Games"
+  flip=true
+  text=text
+%}
+
+{% capture text %}
+The PI and the group is actively working on learning in games. Papers include results on last iterate convergence such as 
+{:.center}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="Learning in Games"
+  flip=true
+  text=text
+%}
+
+{% capture text %}
+Our team includes 3 PhD students, multiple undergrads and external collaboratos.
 {%
   include link.html
   link="team"
@@ -51,6 +74,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
 
