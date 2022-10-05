@@ -5,11 +5,11 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Principal Investigator: Ioannis Panageas
+# <i class="fas fa-users"></i>Team Goal Laboratory 
 
 
 {% capture text %}
-Principal Investigator: Ioannis Panageas{% endcapture %}
+<strong> Principal Investigator </strong>: [Ioannis Panageas](https://panageas.github.io/){% endcapture %}
 
 {%
   include feature.html
