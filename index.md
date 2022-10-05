@@ -6,10 +6,68 @@ title: Home
 
 The Games, Optimization, Algorithms, and Learning Lab (GoalLab) studies theory of machine learning  and its interface with learning in games and algorithmic game theory, optimization, dynamical systems, probability and statistics.
 
-# Highlights
+# Research Highlights
 
 {% capture text %}
-Multi-agent Reinforcement Learning
+Below we provide our main research areas of interest with selected publications
+{%
+  include link.html
+  link="research"
+  text="See what we've published"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Multi-agent Reinforcement Learning"
+  text=text
+%}
+{% capture text %}
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{%
+  include link.html
+  link="tools"
+  text="Browse our tools"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="resources"
+  title="Our Resources"
+  flip=true
+  text=text
+%}
+{% capture text %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{%
+  include link.html
+  link="team"
+  text="Meet our team"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+
+{% capture text %}
 
 {%
   include feature.html
