@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team Goal Laboratory 
+# <i class="fas fa-users"></i>Team GOAL Laboratory 
 
 
 {% capture text %}
