@@ -18,11 +18,46 @@ nav:
   text=text
 %}
 
-{% include list.html data="members" component="portrait" filters="tier: first" %}
-{% include list.html data="members" component="portrait" filters="tier: second" %}
-{% include list.html data="members" component="portrait" filters="tier: " %}
-{:.center}
-
+<a href="/members/fivoskalogiannis.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="PhD Student"><i class="fas fa-graduation-cap"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/portraits/Kalogiannis.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Fivos Kalogiannis"
+    >
+  </span><span class="portrait_name">
+      Fivos Kalogiannis
+    </span><span class="portrait_description">
+      Member
+    </span></a>
+<a href="/members/nikolaspatris.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="PhD Student"><i class="fas fa-graduation-cap"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/portraits/nikolas.png"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Nikolas Patris"
+    >
+  </span><span class="portrait_name">
+      Nikolas Patris
+    </span><span class="portrait_description">
+      Member
+    </span></a>
+<a href="/members/steliostavroulakis.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="PhD Student"><i class="fas fa-graduation-cap"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/portraits/Stavroulakis.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Stelios Stavroulakis"
+    >
+  </span><span class="portrait_name">
+      Stelios Stavroulakis
+    </span><span class="portrait_description">
+      Member
+    </span></a>
+    
 {% include section.html %}
 <strong> External Collaborators </strong>.
 
