@@ -15,4 +15,4 @@ nav:
       </a>
     </div><div class="citation_authors truncate" tabindex="0">
       Steve McQueen, Lightning McQueen
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"> class="tag">NeurIPS 2022</div>
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag">NeurIPS 2022</a></div>
