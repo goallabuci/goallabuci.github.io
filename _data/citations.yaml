@@ -1,9 +1,13 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- title: Efficiently Computing Nash Equilibria in Adversarial Team Markov Games
-  _cache: 7f8d641498ee310b32c373fc665117fb44bb6a2e78a0a73dcde1ea805e8db109
+- title: Some Publication Title
+  authors:
+  - Steve McQueen
+  - Lightning McQueen
+  publisher: bioRxiv
   date: ''
-- title: And another one
-  _cache: e3c4775d87683f1d37f2b9b1a39c5ee5aa6137769ce12abae74ea21dfd3af4fe
-  date: ''
+  link: biorxiv.org/1234
+  tags:
+  - NeurIPS 2022
+  _cache: d35a0535e488600dd4326776e2e7381fa03f8e7324a2cc9cf5f01438e7fced86
