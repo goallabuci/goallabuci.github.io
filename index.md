@@ -26,6 +26,7 @@ The PI and the group is actively working on learning in games. Papers include re
   include feature.html
   image="images/lastiterate.png"
   title="Learning in Games"
+  flip=true
   text=text
 %}
 
@@ -37,7 +38,6 @@ Inspired by the success of Stochastic Gradient Descent in training neural networ
   include feature.html
   image="images/nonconvex.png"
   title="Non-convex and min-max optimization"
-  flip=true
   text=text
 %}
 {% capture text %}
