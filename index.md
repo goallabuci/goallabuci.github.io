@@ -77,6 +77,5 @@ Our team includes 3 PhD students, multiple undergrads and external collaborators
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
   text=text
 %}
