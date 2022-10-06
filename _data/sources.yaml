@@ -1,3 +1,10 @@
-- title: Efficiently Computing Nash Equilibria in Adversarial Team Markov Games
-
-- title: And another one
+# a source (no id field provided)
+- title: Some Publication Title
+  authors:
+    - Steve McQueen
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
+  tags:
+    - NeurIPS 2022
