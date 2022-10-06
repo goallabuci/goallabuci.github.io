@@ -18,7 +18,7 @@ nav:
   text=text
 %}
 
-<a href="/members/fivoskalogiannis.html" class="portrait" style="--width: 150px">
+<a href="https://fivoskal.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/Kalogiannis.jpg"
@@ -29,9 +29,9 @@ nav:
   </span><span class="portrait_name">
       Fivos Kalogiannis
     </span><span class="portrait_description">
-      Member
+      PhD Student
     </span></a>
-<a href="/members/nikolaspatris.html" class="portrait" style="--width: 150px">
+<a href="https://npatris.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/nikolas.png"
@@ -42,9 +42,9 @@ nav:
   </span><span class="portrait_name">
       Nikolas Patris
     </span><span class="portrait_description">
-      Member
+      PhD Student
     </span></a>
-<a href="/members/steliostavroulakis.html" class="portrait" style="--width: 150px">
+<a href="https://steliostavroulakis.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/Stavroulakis.jpg"
@@ -55,7 +55,7 @@ nav:
   </span><span class="portrait_name">
       Stelios Stavroulakis
     </span><span class="portrait_description">
-      Member
+      PhD Student
     </span></a>
     
 {% include section.html %}
