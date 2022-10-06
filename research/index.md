@@ -15,7 +15,7 @@ nav:
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Manolis Vlatakis, Vaggos Chatziafratis and Stelios Stavroulakis
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag">Arxiv 2022</a></div>
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">Arxiv 2022</a></div>
 <br>
 
 <div class="citation_title" align="left">
@@ -24,7 +24,7 @@ nav:
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Fivos Kalogiannis, Ioannis Panageas and Manolis Vlatakis
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag">Arxiv 2022</a></div>    
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">Arxiv 2022</a></div>    
 <br>
 
 <div class="citation_title" align="left">
@@ -42,7 +42,7 @@ nav:
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Ioannis Anagnostides, Gabriele Farina, Ioannis Panageas and Tuomas Sandholm
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag">NeurIPS 2022</a></div>    
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">NeurIPS 2022</a></div>    
 <br>
 
 <div class="citation_title" align="left">
@@ -51,7 +51,7 @@ nav:
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Ioannis Anagnostides, Ioannis Panageas, Gabriele Farina and Tuomas Sandholm
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag">ICML 2022</a></div>    
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">ICML 2022</a></div>    
 <br>
 
 <div class="citation_title" align="left">
@@ -60,7 +60,7 @@ nav:
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Yi Feng, Ioannis Panageas and Xiao Wang
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag">IJCAI 2022</a></div>    
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">IJCAI 2022</a></div>    
 <br>
 
 <div class="citation_title" align="left">
@@ -69,7 +69,7 @@ nav:
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Roy Fox, Stephen McAleer, Will Overman and Ioannis Panageas
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag">AISTATS 2022</a></div>    
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AISTATS 2022</a></div>    
 <br>
 
 <div class="citation_title" align="left">
@@ -78,7 +78,7 @@ Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
      Stefanos Leonardos, Will Overman, Ioannis Panageas and Georgios Piliouras
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag">ICLR 2022</a></div>    
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">ICLR 2022</a></div>    
 <br>
 
 <div class="citation_title" align="left">
@@ -87,5 +87,5 @@ Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Ioannis Anagnostides and Ioannis Panageas
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag">SOSA 2022</a></div>    
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">SOSA 2022</a></div>    
 <br>
