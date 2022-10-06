@@ -9,7 +9,7 @@ nav:
 
 
 {% include section.html %}
-<div class="citation_text"><div class="citation_title">
+<div class="citation_title">
       <a href="biorxiv.org/1234">
         Some Publication Title
       </a>
@@ -18,4 +18,3 @@ nav:
     </div><div class="citation_details">
       bioRxiv&nbsp; · &nbsp;[no date info]
     </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a href="https://goallabuci.github.io/research/?search=&quot;tag: NeurIPS 2022&quot;" class="tag" data-tooltip="Show items with the tag &quot;NeurIPS 2022&quot;">NeurIPS 2022</a></div><div class="citation_links"></div></div>
-</div>
