@@ -18,7 +18,7 @@ nav:
   text=text
 %}
 
-<a href="/members/fivoskalogiannis.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="PhD Student"><i class="fas fa-graduation-cap"></i></div>
+<a href="/members/fivoskalogiannis.html" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/Kalogiannis.jpg"
@@ -31,7 +31,7 @@ nav:
     </span><span class="portrait_description">
       Member
     </span></a>
-<a href="/members/nikolaspatris.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="PhD Student"><i class="fas fa-graduation-cap"></i></div>
+<a href="/members/nikolaspatris.html" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/nikolas.png"
@@ -44,7 +44,7 @@ nav:
     </span><span class="portrait_description">
       Member
     </span></a>
-<a href="/members/steliostavroulakis.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="PhD Student"><i class="fas fa-graduation-cap"></i></div>
+<a href="/members/steliostavroulakis.html" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/Stavroulakis.jpg"
