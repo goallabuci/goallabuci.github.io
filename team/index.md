@@ -23,7 +23,7 @@ nav:
     </span></a>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://fivoskal.github.io/" class="portrait" style="--width: 150px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://fivoskal.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/Kalogiannis.jpg"
@@ -64,5 +64,7 @@ nav:
     </span></a>
     
 {% include section.html %}
-<strong> External Collaborators </strong>.
+<strong> Collaborators </strong>.
+
+[Ioannis Anagnostides](https://scholar.google.com/citations?user=QVwDo_sAAAAJ&hl=el), [Vaggos Chatziafratis](https://cs.stanford.edu/~vaggos/)
 
