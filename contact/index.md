@@ -11,6 +11,7 @@ Our lab is part of the [Department of Computer Science](https://www.cs.uci.edu/)
 
 # Email
 xxxxlab dot uci at gmail dot com where xxxx is the name of the Lab. 
+{:.center}
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
