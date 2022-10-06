@@ -42,12 +42,12 @@ Inspired by the success of Stochastic Gradient Descent in training neural networ
   text=text
 %}
 {% capture text %}
-The group has works related to [proper learning in Graphical models with applications to learning from dependent data](https://arxiv.org/abs/1905.03353) (see also [this paper](https://arxiv.org/abs/2003.08259) for a setting using hypergraphs), [structural learning from truncated data](https://arxiv.org/abs/2006.09735), [learning mixtures from truncated data](https://arxiv.org/abs/1902.06958).
+The group has works related to [proper learning in Graphical models with applications to learning from dependent data](https://arxiv.org/abs/1905.03353) (see also [this paper](https://arxiv.org/abs/2003.08259) for a setting using hypergraphs), [structural learning from truncated data](https://arxiv.org/abs/2006.09735), [learning mixtures from truncated data](https://arxiv.org/abs/1902.06958). Other works are about [bounding the mixing time in Markov Chains](https://arxiv.org/abs/1411.6322) (see also [followup paper](https://panageas.github.io/files/dsmc.pdf)) 
 {:.center}
 {% endcapture %}
 {%
   include feature.html
-  image="images/neuralmap.png"
+  image="images/trajectories.png"
   title="Probability and Statistics"
   flip=true
   text=text
