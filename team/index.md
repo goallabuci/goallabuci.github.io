@@ -8,15 +8,20 @@ nav:
 # <i class="fas fa-users"></i>Team GOAL Laboratory 
 
 
-{% capture text %}
-<strong> Principal Investigator </strong>: [Ioannis Panageas](https://panageas.github.io/){% endcapture %}
-
-{%
-  include feature.html
-  image="images/portraits/Panageas.jpg"
-  link="https://panageas.github.io/"
-  text=text
-%}
+<a href="https://panageas.github.io/" class="portrait" style="--width: 250px">
+<span class="portrait_image">
+    <img
+      src="/images/portraits/Panageas.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Fivos Kalogiannis"
+    >
+  </span><span class="portrait_name">
+      Ioannis Panageas
+    </span><span class="portrait_description">
+      Principal Investigator
+    </span></a>
+<br>
 
 <a href="https://fivoskal.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
