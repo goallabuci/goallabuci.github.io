@@ -9,16 +9,8 @@ nav:
 
 Our lab is part of the [Department of Computer Science](https://www.cs.uci.edu/) at [University of California, Irvine](https://uci.edu/). We are located on the 4th floor of the [DBH](https://classrooms.uci.edu/classrooms/dbh/), office 4065.
 
-{%
-  include link.html
-  type="email"
-  icon=""
-  text="goallab.uci@gmail.com"
-  tooltip=""
-  link="goallab.uci@gmail.com"
-  style="button"
-%}
-{:.center}
+# Email
+xxxxlab dot uci at gmail dot com where xxxx is the name of the Lab. 
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
