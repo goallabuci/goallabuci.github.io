@@ -10,9 +10,9 @@ nav:
 
 {% include section.html %}
 <div class="citation_title">
-      <a href="biorxiv.org/1234">
-        Some Publication Title
+      <a href="https://arxiv.org/abs/2208.02204">
+        Efficiently Computing Nash Equilibria in Adversarial Team Markov Games 
       </a>
     </div><div class="citation_authors truncate" tabindex="0">
-      Steve McQueen, Lightning McQueen
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag">NeurIPS 2022</a></div>
+      Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Manolis Vlatakis, Vaggos Chatziafratis and Stelios Stavroulakis
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag">Arxiv 2022</a></div>
