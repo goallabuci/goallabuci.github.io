@@ -76,7 +76,7 @@ Our team includes 3 PhD students, multiple undergrads and external collaborators
 {% endcapture %}
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   text=text
 %}
