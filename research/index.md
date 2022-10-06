@@ -9,7 +9,7 @@ nav:
 
 
 {% include section.html %}
-<div class="citation_title">
+<div class="citation_title" align="left">
       <a href="https://arxiv.org/abs/2208.02204">
         Efficiently Computing Nash Equilibria in Adversarial Team Markov Games 
       </a>
