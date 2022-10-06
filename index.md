@@ -62,13 +62,12 @@ Our group has focused on the problem of expressivity of Neural Networks. Using t
   title="Deep Learning Theory"
   text=text
 %}
-# Team Members
+# Our TEAM
 {% capture text %}
 Our team includes 3 PhD students, multiple undergrads and external collaborators.
 {%
   include link.html
   link="team"
-  text="Meet our team"
   icon="fas fa-arrow-right"
   flip=true
 %}
