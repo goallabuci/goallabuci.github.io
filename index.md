@@ -25,7 +25,7 @@ The PI and the group is actively working on learning in games. Papers include re
 {%
   include feature.html
   image="images/lastiterate.png"
-  title="Learning in Games"
+  title="<strong>Learning in Games</strong>"
   flip=true
   text=text
 %}
@@ -37,7 +37,7 @@ Inspired by the success of Stochastic Gradient Descent in training neural networ
 {%
   include feature.html
   image="images/nonconvex.png"
-  title="Non-convex and min-max optimization"
+  title="<strong>Non-convex and min-max optimization</strong>"
   text=text
 %}
 {% capture text %}
@@ -47,7 +47,7 @@ The group has works related to [proper learning in Graphical models with applica
 {%
   include feature.html
   image="images/trajectories.png"
-  title="Probability and Statistics"
+  title="<strong>Probability and Statistics</strong>"
   flip=true
   text=text
 %}
@@ -59,7 +59,7 @@ Our group has focused on the problem of expressivity of Neural Networks. Using t
 {%
   include feature.html
   image="images/neuralmap.png"
-  title="Deep Learning Theory"
+  title="<strong>Deep Learning Theory</strong>"
   text=text
 %}
 # Our TEAM
