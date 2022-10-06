@@ -14,7 +14,7 @@ Our recent focus has been on finding Nash equilibria in Markov games. Two repres
 {%
   include feature.html
   image="images/papers/advteamgames.png"
-  title="Multi-agent Reinforcement Learning"
+  title="<strong> Multi-agent Reinforcement Learning </strong>"
   text= text
 %}
 
