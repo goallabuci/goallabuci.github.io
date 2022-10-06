@@ -69,6 +69,7 @@ Our team includes 3 PhD students, multiple undergrads and external collaborators
   include link.html
   link="team"
   icon="fas fa-arrow-right"
+  text="Meet our team"
   flip=true
 %}
 {:.center}
