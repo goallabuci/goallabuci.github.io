@@ -9,12 +9,7 @@ nav:
 
 
 {% include section.html %}
-
-<div class="citation" data-style="rich"><div class="citation_image">
-      <a href="biorxiv.org/1234">
-        <img src="" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="" loading="lazy" alt="Citation thumbnail" />
-      </a>
-    </div><div class="citation_text"><div class="citation_title">
+<div class="citation_text"><div class="citation_title">
       <a href="biorxiv.org/1234">
         Some Publication Title
       </a>
