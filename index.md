@@ -41,6 +41,17 @@ Inspired by the success of Stochastic Gradient Descent in training neural networ
   flip=true
   text=text
 %}
+{% capture text %}
+The group has works related to [proper learning in Graphical models with applications to learning from dependent data](https://arxiv.org/abs/1905.03353) (see also [this paper](https://arxiv.org/abs/2003.08259) for a setting using hypergraphs), [structural learning from truncated data](https://arxiv.org/abs/2006.09735), [learning mixtures from truncated data](https://arxiv.org/abs/1902.06958).
+{:.center}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/neuralmap.png"
+  title="Probability and Statistics"
+  flip=true
+  text=text
+%}
 
 {% capture text %}
 Our group has focused on the problem of expressivity of Neural Networks. Using techniques from Dynamical systems, we are able to prove [tradeoffs between the depth and the width in feedforward Neural Networks](https://arxiv.org/abs/1912.04378). Here is also a [follow-up paper](https://arxiv.org/abs/2003.00777) that strenghtens the results.
