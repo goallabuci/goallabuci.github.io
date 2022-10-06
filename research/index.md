@@ -33,7 +33,7 @@ nav:
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Vaggos Chatziafratis, Ioannis Panageas, Clayton Sanford and Stelios Stavroulakis
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag">NeurIPS 2022</a></div>   
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">NeurIPS 2022</a></div>   
 <br>
 
 <div class="citation_title" align="left">
