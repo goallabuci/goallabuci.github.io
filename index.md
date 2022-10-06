@@ -26,12 +26,11 @@ The PI and the group is actively working on learning in games. Papers include re
   include feature.html
   image="images/lastiterate.png"
   title="Learning in Games"
-  flip=true
   text=text
 %}
 
 {% capture text %}
-Inspired by the success of Stochastic Gradient Descent in training neural networks, the group has done works on non-convex optimization. Using techniques from dynamical systems, we are able to show that Gradient Descent and other first order methods with constant stepsize [avoid strict saddle points](https://arxiv.org/abs/1710.07406). We extend these results for [multiplicative weights update (polytope constraints)](https://arxiv.org/abs/1810.05355) and [time varying stepsizes](https://arxiv.org/abs/1906.07772). Inpired by the success of Generative Adversarial Networks, the group has worked on min-max optimization for non-convex non-concave landscapes, [characterising the limit points of first-order methods](https://arxiv.org/abs/1807.03907).
+Inspired by the success of Stochastic Gradient Descent in training neural networks, the group has done works on non-convex optimization. Using techniques from dynamical systems, we are able to show that Gradient Descent and other first order methods with constant stepsize [avoid strict saddle points](https://arxiv.org/abs/1710.07406). We extend these results to [multiplicative weights update (polytope constraints)](https://arxiv.org/abs/1810.05355) and [time varying stepsizes](https://arxiv.org/abs/1906.07772). Inpired by the success of Generative Adversarial Networks, the group has worked on min-max optimization for non-convex non-concave landscapes, [characterising the limit points of first-order methods](https://arxiv.org/abs/1807.03907).
 {:.center}
 {% endcapture %}
 {%
@@ -42,7 +41,7 @@ Inspired by the success of Stochastic Gradient Descent in training neural networ
   text=text
 %}
 {% capture text %}
-The group has works related to [proper learning in Graphical models with applications to learning from dependent data](https://arxiv.org/abs/1905.03353) (see also [this paper](https://arxiv.org/abs/2003.08259) for a setting using hypergraphs), [structural learning from truncated data](https://arxiv.org/abs/2006.09735), [learning mixtures from truncated data](https://arxiv.org/abs/1902.06958). Other works are about [bounding the mixing time in Markov Chains](https://arxiv.org/abs/1411.6322) (see also [followup paper](https://panageas.github.io/files/dsmc.pdf)) 
+The group has works related to [proper learning in Graphical models with applications to learning from dependent data](https://arxiv.org/abs/1905.03353) (see also [this paper](https://arxiv.org/abs/2003.08259) for a setting using hypergraphs), [structural learning from truncated data](https://arxiv.org/abs/2006.09735), [learning mixtures from truncated data](https://arxiv.org/abs/1902.06958). Other works are about [bounding the mixing time in Markov Chains](https://arxiv.org/abs/1411.6322) (see also [follow-up paper](https://panageas.github.io/files/dsmc.pdf)) 
 {:.center}
 {% endcapture %}
 {%
@@ -61,7 +60,6 @@ Our group has focused on the problem of expressivity of Neural Networks. Using t
   include feature.html
   image="images/neuralmap.png"
   title="Deep Learning Theory"
-  flip=true
   text=text
 %}
 # Team Members
