@@ -66,5 +66,5 @@ nav:
 {% include section.html %}
 <strong> Collaborators </strong>.
 
-[Ioannis Anagnostides](https://scholar.google.com/citations?user=QVwDo_sAAAAJ&hl=el), [Vaggos Chatziafratis](https://cs.stanford.edu/~vaggos/), [Stratis Skoulakis](http://www.corelab.ntua.gr/~sskoul/)
+[Ioannis Anagnostides](https://scholar.google.com/citations?user=QVwDo_sAAAAJ&hl=el), [Vaggos Chatziafratis](https://cs.stanford.edu/~vaggos/), [Stratis Skoulakis](http://www.corelab.ntua.gr/~sskoul/), [Xiao Wang](https://xiiaowang.github.io/)
 
