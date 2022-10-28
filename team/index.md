@@ -23,7 +23,8 @@ nav:
     </span></a>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://fivoskal.github.io/" class="portrait" style="--width: 150px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://fivoskal.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/Kalogiannis.jpg"
@@ -39,7 +40,7 @@ nav:
 <a href="https://npatris.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
-      src="/images/portraits/nikolaslast.png"
+      src="/images/portraits/nikolas.png"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
       alt="Nikolas Patris"
@@ -59,6 +60,34 @@ nav:
     >
   </span><span class="portrait_name">
       Stelios Stavroulakis
+    </span><span class="portrait_description">
+      PhD Student
+    </span></a>
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://fivoskal.github.io/" class="portrait" style="--width: 150px"> -->
+<span class="portrait_image">
+    <img
+      src="/images/portraits/jingming.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Jingming Yan"
+    >
+  </span><span class="portrait_name">
+      Jingming Yan
+    </span><span class="portrait_description">
+      Undergrad Student
+    </span></a>
+<!-- <a href="https://npatris.github.io/" class="portrait" style="--width: 150px"> -->
+<span class="portrait_image">
+    <img
+      src="/images/portraits/cem.png"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Cem Emir Senyurt"
+    >
+  </span><span class="portrait_name">
+      Cem Emir Senyurt
     </span><span class="portrait_description">
       PhD Student
     </span></a>
