@@ -65,7 +65,7 @@ nav:
     </span></a>
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <a href="https://fivoskal.github.io/" class="portrait" style="--width: 150px"> -->
+<a href="" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/jingming.png"
@@ -78,7 +78,7 @@ nav:
     </span><span class="portrait_description">
       Undergrad Student
     </span></a>
-<!-- <a href="https://npatris.github.io/" class="portrait" style="--width: 150px"> -->
+<a href="" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/cem.png"
