@@ -68,7 +68,7 @@ nav:
 <!-- <a href="https://fivoskal.github.io/" class="portrait" style="--width: 150px"> -->
 <span class="portrait_image">
     <img
-      src="/images/portraits/jingming.jpg"
+      src="/images/portraits/jingming.png"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
       alt="Jingming Yan"
