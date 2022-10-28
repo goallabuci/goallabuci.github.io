@@ -89,7 +89,7 @@ nav:
   </span><span class="portrait_name">
       Cem Emir Senyurt
     </span><span class="portrait_description">
-      PhD Student
+      Undergrad Student
     </span></a>
     
 {% include section.html %}
