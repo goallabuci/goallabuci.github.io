@@ -40,7 +40,7 @@ nav:
 <a href="https://npatris.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
-      src="/images/portraits/nikolas.png"
+      src="/images/portraits/nicknewlast.png"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
       alt="Nikolas Patris"
