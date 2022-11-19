@@ -11,7 +11,7 @@ nav:
 {% include section.html %}
 <div class="citation_title" align="left">
       <a href="https://goallabuci.github.io/research/">
-        Efficiently Computing Nash Equilibria in Adversarial Team Markov Games 
+        Mean estimation of truncated mixtures of two Gaussians: A gradient based approach 
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Sai Ganesh Nagarajan, Gerasimos Palaiopanos, Ioannis Panageas, Tushar Vaidya and Samson Yu
