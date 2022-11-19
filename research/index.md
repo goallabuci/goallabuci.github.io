@@ -10,6 +10,15 @@ nav:
 
 {% include section.html %}
 <div class="citation_title" align="left">
+      <a href="https://goallabuci.github.io/research/">
+        Efficiently Computing Nash Equilibria in Adversarial Team Markov Games 
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Sai Ganesh Nagarajan, Gerasimos Palaiopanos, Ioannis Panageas, Tushar Vaidya and Samson Yu
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AAAI 2023</a></div>
+<br>
+
+<div class="citation_title" align="left">
       <a href="https://arxiv.org/abs/2208.02204">
         Efficiently Computing Nash Equilibria in Adversarial Team Markov Games 
       </a>
