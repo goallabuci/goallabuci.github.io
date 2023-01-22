@@ -10,21 +10,12 @@ nav:
 
 {% include section.html %}
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/research/">
-        Mean estimation of truncated mixtures of two Gaussians: A gradient based approach 
-      </a>
-    </div><div class="citation_authors truncate" align="left" tabindex="0">
-      Sai Ganesh Nagarajan, Gerasimos Palaiopanos, Ioannis Panageas, Tushar Vaidya and Samson Yu
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AAAI 2023</a></div>
-<br>
-
-<div class="citation_title" align="left">
       <a href="https://arxiv.org/abs/2208.02204">
         Efficiently Computing Nash Equilibria in Adversarial Team Markov Games 
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Manolis Vlatakis, Vaggos Chatziafratis and Stelios Stavroulakis
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">Arxiv 2022</a></div>
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">ICLR 2023 (oral)</a></div>
 <br>
 
 <div class="citation_title" align="left">
@@ -33,7 +24,16 @@ nav:
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Fivos Kalogiannis, Ioannis Panageas and Manolis Vlatakis
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">Arxiv 2022</a></div>    
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">ICLR 2023</a></div>    
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://goallabuci.github.io/research/">
+        Mean estimation of truncated mixtures of two Gaussians: A gradient based approach 
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Sai Ganesh Nagarajan, Gerasimos Palaiopanos, Ioannis Panageas, Tushar Vaidya and Samson Yu
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AAAI 2023</a></div>
 <br>
 
 <div class="citation_title" align="left">
