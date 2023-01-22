@@ -81,6 +81,7 @@ Our team includes 3 PhD students, multiple undergrads and external collaborators
   text=text
 %}
 
-# _<font color="red">Latest NEWS:</font>
-Two papers accepted in ICLR 2023, one oral.
-
+# <font color="red">Latest NEWS:</font>
+<p align="center">
+1/2023: Two papers accepted in ICLR 2023, one oral.
+</p>
