@@ -85,5 +85,5 @@ Our team includes 3 PhD students, multiple undergrads and external collaborators
 <h2 align="center">
 2/2023: New paper on <a href="https://arxiv.org/abs/2301.11241">
         time-varying games </a> <br/>
-1/2023: Two papers accepted in ICLR 2023, one oral.
+1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral </a>.
 </h2>
