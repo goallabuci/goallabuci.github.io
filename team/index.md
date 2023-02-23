@@ -81,6 +81,19 @@ nav:
 <a href="" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
+      src="/images/portraits/sam.jpeg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Jingming Yan"
+    >
+  </span><span class="portrait_name">
+      Sam Paulin
+    </span><span class="portrait_description">
+      Undergrad Student
+    </span></a>
+<a href="" class="portrait" style="--width: 150px">
+<span class="portrait_image">
+    <img
       src="/images/portraits/cem.png"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
