@@ -10,6 +10,24 @@ nav:
 
 {% include section.html %}
 <div class="citation_title" align="left">
+      <a href="https://arxiv.org/abs/2301.02129">
+        Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games 
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Ioannis Anagnostides, Fivos Kalogiannis, Ioannis Panageas, Manolis Vlatakis and Stephen McAleer
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">EC 2023</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://goallabuci.github.io/research/">
+        Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret 
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Ioannis Panageas, Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">ICML 2023 (oral)</a></div>
+<br>
+
+<div class="citation_title" align="left">
       <a href="https://arxiv.org/abs/2208.02204">
         Efficiently Computing Nash Equilibria in Adversarial Team Markov Games 
       </a>
