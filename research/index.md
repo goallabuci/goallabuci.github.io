@@ -19,7 +19,7 @@ nav:
 <br>
 
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/research/">
+      <a href="https://arxiv.org/abs/2306.15543">
         Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret 
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
