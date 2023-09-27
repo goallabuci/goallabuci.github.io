@@ -83,6 +83,7 @@ Our team includes 3 PhD students, multiple undergrads and external collaborators
 
 # <font color="red">Latest NEWS:</font>
   <ul>
+    <li> 9/2023 Four papers got accepted in NeurIPS 2023.</li>
     <li> 5/2023 One <a href="https://arxiv.org/abs/2301.02129">
     paper</a> accepted in EC 2023. </li>
   <li> 4/2023 One paper accepted in ICML 2023 as oral. </li>
