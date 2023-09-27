@@ -10,6 +10,42 @@ nav:
 
 {% include section.html %}
 <div class="citation_title" align="left">
+      <a href="https://goallabuci.github.io/research/">
+       Exponential Lower Bounds for Fictitious Play in Potential Games
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Ioannis Panageas, Nikolas Patris, Stratis Skoulakis and Volkan Cevher
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">NeurIPS 2023</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://goallabuci.github.io/research/">
+        On the Last-iterate Convergence in Time-varying Zero-sum Games: Extra Gradient Succeeds where Optimism Fails
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Yi Feng, Hu Fu, Qun Hu, Ping Li, Ioannis Panageas, Bo Peng and Xiao Wang
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">NeurIPS 2023</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://arxiv.org/abs/2301.11241">
+       On the Convergence of No-Regret Learning Dynamics in Time-Varying Games 
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Ioannis Anagnostides, Ioannis Panageas, Gabriele Farina and Tuomas Sandholm
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">NeurIPS 2023</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://arxiv.org/abs/2305.14329">
+        Zero-sum Polymatrix Markov Games: Equilibrium Collapse and Efficient Computation of Nash Equilibria 
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Fivos Kalogiannis and Ioannis Panageas
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">NeurIPS 2023</a></div>
+<br>
+
+<div class="citation_title" align="left">
       <a href="https://arxiv.org/abs/2301.02129">
         Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games 
       </a>
