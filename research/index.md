@@ -10,7 +10,7 @@ nav:
 
 {% include section.html %}
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/research/">
+      <a href="https://arxiv.org/abs/2310.02387">
        Exponential Lower Bounds for Fictitious Play in Potential Games
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
@@ -19,7 +19,7 @@ nav:
 <br>
 
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/research/">
+      <a href="https://arxiv.org/abs/2310.02604">
         On the Last-iterate Convergence in Time-varying Zero-sum Games: Extra Gradient Succeeds where Optimism Fails
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
