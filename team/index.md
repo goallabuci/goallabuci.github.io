@@ -63,9 +63,7 @@ nav:
     </span><span class="portrait_description">
       PhD Student
     </span></a>
-    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" class="portrait" style="--width: 150px">
+<a href="https://panageas.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/jingming.png"
@@ -76,8 +74,10 @@ nav:
   </span><span class="portrait_name">
       Jingming Yan
     </span><span class="portrait_description">
-      Undergrad Student
-    </span></a>
+      PhD Student
+    </span></a>    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
@@ -108,5 +108,5 @@ nav:
 {% include section.html %}
 <strong> Collaborators </strong>.
 
-[Ioannis Anagnostides](https://scholar.google.com/citations?user=QVwDo_sAAAAJ&hl=el), [Vaggos Chatziafratis](https://cs.stanford.edu/~vaggos/), [Stratis Skoulakis](http://www.corelab.ntua.gr/~sskoul/), [Xiao Wang](https://xiiaowang.github.io/)
+[Ioannis Anagnostides](https://scholar.google.com/citations?user=QVwDo_sAAAAJ&hl=el), [Vaggos Chatziafratis](https://cs.stanford.edu/~vaggos/), [Stratis Skoulakis](http://www.corelab.ntua.gr/~sskoul/), [Luca Viano](https://sites.google.com/view/lucaviano/home-page), [Xiao Wang](https://xiiaowang.github.io/)
 
