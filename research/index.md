@@ -14,7 +14,7 @@ nav:
       Optimistic Policy Gradient in Multi-Player Markov Games with a Single Controller: Convergence Beyond the Minty Property
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
-      Ioannis Anagnostides, Ioannis Panageas Gabriele Farina and Tuomas Sandholm
+      Ioannis Anagnostides, Ioannis Panageas, Gabriele Farina and Tuomas Sandholm
     </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AAAI 2024</a></div>
 <br>
 
