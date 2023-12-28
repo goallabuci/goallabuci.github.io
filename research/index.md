@@ -15,7 +15,7 @@ nav:
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Ioannis Anagnostides, Ioannis Panageas, Gabriele Farina and Tuomas Sandholm
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AAAI 2024</a></div>
+    </div><div class="tags" data-link="https://arxiv.org/abs/2312.12067"><a class="tag" style="color:#ff0000">AAAI 2024</a></div>
 <br>
 
 <div class="citation_title" align="left">
