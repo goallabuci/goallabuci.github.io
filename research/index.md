@@ -11,6 +11,24 @@ nav:
 {% include section.html %}
 <div class="citation_title" align="left">
       <a href="https://goallabuci.github.io/research">
+      Learning Nash equilibria in Rank-1 games: Going beyond the Minty Property
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Nikolas Patris and Ioannis Panageas
+    </div><div class="tags" data-link="https://arxiv.org/abs/2312.12067"><a class="tag" style="color:#ff0000">ICLR 2024</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://goallabuci.github.io/research">
+      Beating Price of Anarchy and Gradient Descent without Regret in Potential Games
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Iosif Sakos, Stefanos Leonardos, Stelios Stavroulakis, Will Overman, Ioannis Panageas and Georgios Piliouras
+    </div><div class="tags" data-link="https://arxiv.org/abs/2312.12067"><a class="tag" style="color:#ff0000">ICLR 2024</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://goallabuci.github.io/research">
       Optimistic Policy Gradient in Multi-Player Markov Games with a Single Controller: Convergence Beyond the Minty Property
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
