@@ -83,6 +83,7 @@ Our team includes 3 PhD students, multiple undergrads and external collaborators
 
 # <font color="red">Latest NEWS:</font>
   <ul>
+    <li> 1/2024 Two papers got accepted in ICLR 2024. </li>
     <li> 12/2023 Two papers got accepted in AAAI 2024.</li>
     <li> 9/2023 Four papers got accepted in NeurIPS 2023.</li>
     <li> 5/2023 One <a href="https://arxiv.org/abs/2301.02129">
