@@ -67,7 +67,7 @@ nav:
 <a href="" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
-      src="/images/portraits/nathan.jpg"
+      src="/images/portraits/nathan.JPG"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
       alt="Nathan Monette"
