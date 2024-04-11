@@ -22,6 +22,8 @@ nav:
       Principal Investigator
     </span></a>
 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://npatris.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
@@ -76,7 +78,6 @@ nav:
     </span><span class="portrait_description">
       Undergrad Student
     </span></a>
-    
 <a href="" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
