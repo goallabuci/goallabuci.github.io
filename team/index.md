@@ -22,20 +22,6 @@ nav:
       Principal Investigator
     </span></a>
 <br>
-
-<a href="https://fivoskal.github.io/" class="portrait" style="--width: 150px">
-<span class="portrait_image">
-    <img
-      src="/images/portraits/Kalogiannis.jpg"
-      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
-      loading="lazy"
-      alt="Fivos Kalogiannis"
-    >
-  </span><span class="portrait_name">
-      Fivos Kalogiannis
-    </span><span class="portrait_description">
-      PhD Student
-    </span></a>
 <a href="https://npatris.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
@@ -80,31 +66,39 @@ nav:
 <a href="" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
+      src="/images/portraits/nathan.jpeg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Nathan Monette"
+    >
+  </span><span class="portrait_name">
+      Nathan Monette
+    </span><span class="portrait_description">
+      Undergrad Student
+    </span></a>
+    
+<a href="" class="portrait" style="--width: 150px">
+<span class="portrait_image">
+    <img
       src="/images/portraits/sam.jpeg"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
-      alt="Jingming Yan"
+      alt="Sam Poulin"
     >
   </span><span class="portrait_name">
       Sam Paulin
     </span><span class="portrait_description">
       Undergrad Student
     </span></a>
-<a href="" class="portrait" style="--width: 150px">
-<span class="portrait_image">
-    <img
-      src="/images/portraits/cem.png"
-      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
-      loading="lazy"
-      alt="Cem Emir Senyurt"
-    >
-  </span><span class="portrait_name">
-      Cem Emir Senyurt
-    </span><span class="portrait_description">
-      Undergrad Student
-    </span></a>
     
 {% include section.html %}
+<strong> Alumni </strong>
+
+[Fivos Kalogiannis](https://fivoskal.github.io/) <br>
+[Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en) <br>
+[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home)<br>
+
+
 <strong> Collaborators </strong>.
 
 [Ioannis Anagnostides](https://scholar.google.com/citations?user=QVwDo_sAAAAJ&hl=el), [Vaggos Chatziafratis](https://cs.stanford.edu/~vaggos/), [Stratis Skoulakis](http://www.corelab.ntua.gr/~sskoul/), [Luca Viano](https://sites.google.com/view/lucaviano/home-page), [Xiao Wang](https://xiiaowang.github.io/)
