@@ -83,6 +83,7 @@ Our team includes 3 PhD students, multiple undergrads and external collaborators
 
 # <font color="red">Latest NEWS:</font>
   <ul>
+    <li> 5/2024 One paper got accepted in ICML 2024. </li>
     <li> 4/2024 One paper got accepted in UAI 2024. </li>
     <li> 1/2024 Two papers got accepted in ICLR 2024. </li>
     <li> 12/2023 Two papers got accepted in AAAI 2024.</li>
