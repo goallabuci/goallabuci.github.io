@@ -11,33 +11,51 @@ nav:
 {% include section.html %}
 <div class="citation_title" align="left">
       <a href="https://goallabuci.github.io/research">
+      The Computational Complexity of Finding Second-Order Stationary Points
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Andreas Kontogiannis, Vasilis Pollatos, Sotiris Kanellopoulos, Panayotis Mertikopoulos, Aris Pagourtzis and Ioannis Panageas
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">ICML 2024</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://goallabuci.github.io/research">
+      Last-iterate Convergence Separation between Extra-gradient and Optimism in Constrained Periodic Games
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Yi Feng, Ping Li, Ioannis Panageas and Xiao Wang
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">UAI 2024</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://openreview.net/pdf?id=8utTlmhw8v">
       Learning Nash equilibria in Rank-1 games: Going beyond the Minty Property
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Nikolas Patris and Ioannis Panageas
-    </div><div class="tags" data-link="https://arxiv.org/abs/2312.12067"><a class="tag" style="color:#ff0000">ICLR 2024</a></div>
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">ICLR 2024</a></div>
 <br>
 
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/research">
+      <a href="https://openreview.net/pdf?id=36L7W3ri4U">
       Beating Price of Anarchy and Gradient Descent without Regret in Potential Games
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Iosif Sakos, Stefanos Leonardos, Stelios Stavroulakis, Will Overman, Ioannis Panageas and Georgios Piliouras
-    </div><div class="tags" data-link="https://arxiv.org/abs/2312.12067"><a class="tag" style="color:#ff0000">ICLR 2024</a></div>
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">ICLR 2024</a></div>
 <br>
 
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/research">
+      <a href="https://arxiv.org/abs/2312.12067">
       Optimistic Policy Gradient in Multi-Player Markov Games with a Single Controller: Convergence Beyond the Minty Property
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Ioannis Anagnostides, Ioannis Panageas, Gabriele Farina and Tuomas Sandholm
-    </div><div class="tags" data-link="https://arxiv.org/abs/2312.12067"><a class="tag" style="color:#ff0000">AAAI 2024</a></div>
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AAAI 2024</a></div>
 <br>
 
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/research">
+      <a href="https://arxiv.org/abs/2402.07797">
        Computing Nash Equilibria in Potential Games with Private Uncoupled Constraints
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
