@@ -91,14 +91,14 @@ nav:
     </span></a>
     
 {% include section.html %}
-<strong> Alumni </strong>
+<strong> Alumni (in chronological order of graduation) </strong>
 
 [Fivos Kalogiannis](https://fivoskal.github.io/) <br>
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en) <br>
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home)<br>
 
 
-<strong> Collaborators </strong>.
+<strong> Collaborators (in alphabetical order)</strong>
 
 [Ioannis Anagnostides](https://scholar.google.com/citations?user=QVwDo_sAAAAJ&hl=el), [Vaggos Chatziafratis](https://cs.stanford.edu/~vaggos/), [Stratis Skoulakis](http://www.corelab.ntua.gr/~sskoul/), [Luca Viano](https://sites.google.com/view/lucaviano/home-page), [Xiao Wang](https://xiiaowang.github.io/)
 
