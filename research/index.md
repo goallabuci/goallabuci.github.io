@@ -10,7 +10,16 @@ nav:
 
 {% include section.html %}
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/research">
+      <a href="https://arxiv.org/abs/2106.02024">
+      Combinatorial Algorithms for Matching Markets via Nash Bargaining: One-Sided, Two-Sided and Non-Bipartite
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Ioannis Panageas, Thorben Tröbst and Vijay Vazirani
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">WINE 2024</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://openreview.net/pdf?id=t8WDBcegae">
       The Computational Complexity of Finding Second-Order Stationary Points
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
@@ -19,7 +28,7 @@ nav:
 <br>
 
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/research">
+      <a href="https://arxiv.org/abs/2406.10605">
       Last-iterate Convergence Separation between Extra-gradient and Optimism in Constrained Periodic Games
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
