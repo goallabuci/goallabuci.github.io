@@ -15,7 +15,7 @@ nav:
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Fivos Kalogiannis, Jingming Yan and Ioannis Panageas
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">WINE 2024</a></div>
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">NeurIPS 2024</a></div>
 <br>
 
 <div class="citation_title" align="left">
