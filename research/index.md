@@ -10,6 +10,24 @@ nav:
 
 {% include section.html %}
 <div class="citation_title" align="left">
+      <a href="https://goallabuci.github.io/">
+     Learning Equilibria in Adversarial Team Markov Games: A Nonconvex-Hidden-Concave Min-Max Optimization Problem
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Fivos Kalogiannis, Jingming Yan and Ioannis Panageas
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">WINE 2024</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://arxiv.org/abs/2401.09628">
+      Polynomial Convergence of Bandit No-Regret Dynamics in Congestion Games
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Leello Dadi, Ioannis Panageas, Stratis Skoulakis, Luca Viano and Volkan Cevher
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">WINE 2024</a></div>
+<br>
+
+<div class="citation_title" align="left">
       <a href="https://arxiv.org/abs/2106.02024">
       Combinatorial Algorithms for Matching Markets via Nash Bargaining: One-Sided, Two-Sided and Non-Bipartite
       </a>
