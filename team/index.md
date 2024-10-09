@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-users"></i>Team GOAL Laboratory 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://panageas.github.io/" class="portrait" style="--width: 250px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://panageas.github.io/" class="portrait" style="--width: 250px">
 <span class="portrait_image">
     <img
       src="/images/portraits/Panageas.jpg"
@@ -22,7 +22,7 @@ nav:
       Principal Investigator
     </span></a>
 <br>
-<a href="https://npatris.github.io/" class="portrait" style="--width: 150px">
+<a href="https://npatris.github.io/" class="portrait" style="--width: 130px">
 <span class="portrait_image">
     <img
       src="/images/portraits/nicknewlast.png"
@@ -35,7 +35,7 @@ nav:
     </span><span class="portrait_description">
       PhD Student
     </span></a>
-<a href="https://steliostavroulakis.github.io/" class="portrait" style="--width: 150px">
+<a href="https://steliostavroulakis.github.io/" class="portrait" style="--width: 130px">
 <span class="portrait_image">
     <img
       src="/images/portraits/Stavroulakis.jpg"
@@ -48,7 +48,7 @@ nav:
     </span><span class="portrait_description">
       PhD Student
     </span></a>
-<a href="https://jingming-yan.github.io/" class="portrait" style="--width: 150px">
+<a href="https://jingming-yan.github.io/" class="portrait" style="--width: 130px">
 <span class="portrait_image">
     <img
       src="/images/portraits/jingming.png"
@@ -61,7 +61,7 @@ nav:
     </span><span class="portrait_description">
       PhD Student
     </span></a>    
-    <a href="https://panageas.github.io/" class="portrait" style="--width: 150px">
+    <a href="https://panageas.github.io/" class="portrait" style="--width: 130px">
 <span class="portrait_image">
     <img
       src="/images/member.jpg"
@@ -76,7 +76,7 @@ nav:
     </span></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://nmonette.github.io" class="portrait" style="--width: 150px">
+<a href="https://nmonette.github.io" class="portrait" style="--width: 130px">
 <span class="portrait_image">
     <img
       src="/images/portraits/nathan.JPG"
@@ -89,7 +89,7 @@ nav:
     </span><span class="portrait_description">
       Undergrad Student
     </span></a>
-<a href="" class="portrait" style="--width: 150px">
+<a href="" class="portrait" style="--width: 130px">
 <span class="portrait_image">
     <img
       src="/images/portraits/sam.jpeg"
