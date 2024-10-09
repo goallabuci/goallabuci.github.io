@@ -14,61 +14,55 @@ nav:
       src="/images/portraits/Panageas.jpg"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
-      alt="Ioannis Panageas"
-    >
+      alt="Ioannis Panageas">
   </span><span class="portrait_name">
       Ioannis Panageas
     </span><span class="portrait_description">
       Principal Investigator
     </span></a>
 <br>
-<a href="https://npatris.github.io/" class="portrait" style="--width: 75px">
+<a href="https://npatris.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/nicknewlast.png"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
-      alt="Nikolas Patris"
-    >
+      alt="Nikolas Patris">
   </span><span class="portrait_name">
       Nikolas Patris
     </span><span class="portrait_description">
       PhD Student
     </span></a>
-<a href="https://steliostavroulakis.github.io/" class="portrait" style="--width: 75px">
+<a href="https://steliostavroulakis.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/Stavroulakis.jpg"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
-      alt="Stelios Stavroulakis"
-    >
+      alt="Stelios Stavroulakis">
   </span><span class="portrait_name">
       Stelios Stavroulakis
     </span><span class="portrait_description">
       PhD Student
     </span></a>
-<a href="https://jingming-yan.github.io/" class="portrait" style="--width: 75px">
+<a href="https://jingming-yan.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/jingming.png"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
-      alt="Jingming Yan"
-    >
+      alt="Jingming Yan">
   </span><span class="portrait_name">
       Jingming Yan
     </span><span class="portrait_description">
       PhD Student
-    </span></a>    
-    <a href="https://panageas.github.io/" class="portrait" style="--width: 75px">
+    </span></a><a href="https://panageas.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/member.jpg"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
-      alt="Rohan Chauhan"
-    >
+      alt="Rohan Chauhan">
   </span><span class="portrait_name">
      Rohan Chauhan
     </span><span class="portrait_description">
@@ -76,7 +70,7 @@ nav:
     </span></a>
     <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://nmonette.github.io" class="portrait" style="--width: 130px">
+<a href="https://nmonette.github.io" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/nathan.JPG"
@@ -89,7 +83,7 @@ nav:
     </span><span class="portrait_description">
       Undergrad Student
     </span></a>
-<a href="" class="portrait" style="--width: 130px">
+<a href="" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/sam.jpeg"
