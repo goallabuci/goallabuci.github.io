@@ -10,7 +10,7 @@ nav:
 
 {% include section.html %}
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/">
+      <a href="https://arxiv.org/abs/2410.05673">
      Learning Equilibria in Adversarial Team Markov Games: A Nonconvex-Hidden-Concave Min-Max Optimization Problem
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
