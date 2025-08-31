@@ -20,7 +20,7 @@ nav:
     </span><span class="portrait_description">
       Principal Investigator
     </span></a>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=HW3mzYQAAAAJ&hl=en" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
