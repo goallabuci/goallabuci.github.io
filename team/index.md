@@ -21,7 +21,7 @@ nav:
       Principal Investigator
     </span></a>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=HW3mzYQAAAAJ&hl=en" class="portrait" style="--width: 150px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=HW3mzYQAAAAJ&hl=en" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/nicknewlast.png"
@@ -117,7 +117,7 @@ nav:
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en) (now at Stanford) <br>
 [Fivos Kalogiannis](https://fivoskal.github.io/) (now at UCSD) <br>
 
-Undergraduate Students Alumni <br>
+<strong> Undergraduate Students Alumni </strong> <br>
 
 [Cem Emir Senyurt](https://www.linkedin.com/in/cem-emir-senyurt-b8b770221/) (now at CMU) <br>
 
