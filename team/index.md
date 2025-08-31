@@ -71,7 +71,7 @@ nav:
     <a href="https://parnianshahkar.github.io/academic-website/" class="portrait" style="--width: 150px"> 
     <span class="portrait_image">
     <img
-      src="/images/member.jpg"
+      src="/images/parnian.jpg"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
       alt="Parnian Shahkar">
