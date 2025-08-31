@@ -56,7 +56,8 @@ nav:
       Jingming Yan
     </span><span class="portrait_description">
       PhD Student
-    </span></a><a href="https://panageas.github.io/" class="portrait" style="--width: 150px">
+    </span></a>
+    <br/><a href="https://panageas.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/member.jpg"
