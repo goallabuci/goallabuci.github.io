@@ -68,7 +68,7 @@ nav:
     </span><span class="portrait_description">
       PhD Student
     </span></a>
-    <br/>
+    <a href="https://parnianshahkar.github.io/academic-website/" class="portrait" style="--width: 150px"> 
     <span class="portrait_image">
     <img
       src="/images/member.jpg"
