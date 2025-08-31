@@ -113,7 +113,7 @@ nav:
 {% include section.html %}
 <strong> Graduate students Alumni (in chronological order of graduation) </strong>
 
-[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (now at Zuse Institute Berlin) <br>
+[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (now Assistant Professor at SDU) <br>
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en) (now at Stanford) <br>
 [Fivos Kalogiannis](https://fivoskal.github.io/) (now at UCSD) <br>
 
