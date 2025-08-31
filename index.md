@@ -64,7 +64,7 @@ Our group has focused on the problem of expressivity of Neural Networks. Using t
 %}
 # Our TEAM
 {% capture text %}
-Our team includes 3 PhD students, multiple undergrads and external collaborators.
+Our team includes 7 PhD students, multiple undergrads and external collaborators.
 {%
   include link.html
   link="team"
