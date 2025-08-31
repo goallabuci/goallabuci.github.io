@@ -111,12 +111,16 @@ nav:
     </span></a>
     
 {% include section.html %}
-<strong> Alumni (in chronological order of graduation) </strong>
+<strong> Graduate students Alumni (in chronological order of graduation) </strong>
 
-[Fivos Kalogiannis](https://fivoskal.github.io/) (now at UCSD) <br>
-[Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en) (now at Stanford) <br>
-[Cem Emir Senyurt](https://www.linkedin.com/in/cem-emir-senyurt-b8b770221/) (now at CMU) <br>
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (now at Zuse Institute Berlin) <br>
+[Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en) (now at Stanford) <br>
+[Fivos Kalogiannis](https://fivoskal.github.io/) (now at UCSD) <br>
+
+Undergraduate Students Alumni <br>
+
+[Cem Emir Senyurt](https://www.linkedin.com/in/cem-emir-senyurt-b8b770221/) (now at CMU) <br>
+
 
 
 <strong> Collaborators (in alphabetical order)</strong>
