@@ -112,10 +112,10 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
     box-shadow: 0 6px 24px rgba(0,0,0,.12);
     border-radius: 12px;
     padding: 12px;
-    width: 160px;              /* a bit wider to fit larger logo */
+    width: 200px;                /* make box wider to fit big logo */
     text-align: center;
     font-family: system-ui, sans-serif;
-    margin: 40px 20px 20px auto;  /* pushes it to the right side */
+    margin: 40px 20px 20px auto; /* pushes it to the bottom-right */
   }
   .support-badge .label {
     display: block;
@@ -125,7 +125,7 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
     color: #222;
   }
   .support-badge img {
-    width: 75px;   /* slightly bigger than before */
+    width: 150px;  /* doubled size */
     height: auto;
     display: block;
     margin: 0 auto;
