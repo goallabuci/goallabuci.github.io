@@ -105,13 +105,6 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
   </a>
 </footer>
 
-<footer class="support-badge" aria-label="Sponsorship badge">
-  <span class="label">Supported by</span>
-  <a href="https://www.nsf.gov" target="_blank" rel="noopener">
-    <img src="nsf-logo.png" alt="U.S. National Science Foundation logo">
-  </a>
-</footer>
-
 <style>
   .support-badge {
     background: #ffffff;
