@@ -86,7 +86,7 @@ nav:
     <a href="https://panageas.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
-      src="/images/member.jpg"
+      src="/images/portraits/rohan.jpg"
       onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
       loading="lazy"
       alt="Rohan Chauhan">
