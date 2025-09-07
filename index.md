@@ -97,3 +97,11 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
         time-varying games.</a> </li>
 <li>1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral.</a></li>
     </ul>
+
+<aside class="support-badge" aria-label="Sponsorship badge">
+    <span class="label">Supported by</span>
+    <a href="https://www.nsf.gov" target="_blank" rel="noopener">
+      <!-- Replace src with your actual logo path or URL -->
+      <img src="nsf-logo.png" alt="National Science Foundation (NSF) logo">
+    </a>
+  </aside>
