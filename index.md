@@ -107,21 +107,27 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
 
 <style>
   .support-badge {
-    margin-top: 40px;        /* spacing above footer */
-    padding: 10px;
-    text-align: right;       /* push to the right side */
-    font-family: sans-serif;
+    background: #ffffff;
+    border: 1px solid rgba(0,0,0,.1);
+    box-shadow: 0 6px 24px rgba(0,0,0,.12);
+    border-radius: 12px;
+    padding: 12px;
+    width: 150px;
+    text-align: center;
+    font-family: system-ui, sans-serif;
+    margin: 40px auto 20px auto; /* centers it horizontally at bottom */
   }
   .support-badge .label {
     display: block;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 600;
-    margin-bottom: 6px;
+    margin-bottom: 8px;
     color: #222;
   }
   .support-badge img {
-    width: 60px;  /* adjust size if needed */
+    width: 60px; /* adjust for size */
     height: auto;
-    vertical-align: middle;
+    display: block;
+    margin: 0 auto;
   }
 </style>
