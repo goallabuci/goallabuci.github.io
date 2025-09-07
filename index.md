@@ -105,6 +105,13 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
   </a>
 </footer>
 
+<footer class="support-badge" aria-label="Sponsorship badge">
+  <span class="label">Supported by</span>
+  <a href="https://www.nsf.gov" target="_blank" rel="noopener">
+    <img src="nsf-logo.png" alt="U.S. National Science Foundation logo">
+  </a>
+</footer>
+
 <style>
   .support-badge {
     background: #ffffff;
@@ -112,10 +119,10 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
     box-shadow: 0 6px 24px rgba(0,0,0,.12);
     border-radius: 12px;
     padding: 12px;
-    width: 150px;
+    width: 160px;              /* a bit wider to fit larger logo */
     text-align: center;
     font-family: system-ui, sans-serif;
-    margin: 40px auto 20px auto; /* centers it horizontally at bottom */
+    margin: 40px 20px 20px auto;  /* pushes it to the right side */
   }
   .support-badge .label {
     display: block;
@@ -125,7 +132,7 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
     color: #222;
   }
   .support-badge img {
-    width: 60px; /* adjust for size */
+    width: 75px;   /* slightly bigger than before */
     height: auto;
     display: block;
     margin: 0 auto;
