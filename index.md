@@ -98,26 +98,18 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
 <li>1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral.</a></li>
     </ul>
 
-<aside class="support-badge" aria-label="Sponsorship badge">
+<footer class="support-badge" aria-label="Sponsorship badge">
   <span class="label">Supported by</span>
   <a href="https://www.nsf.gov" target="_blank" rel="noopener">
     <img src="nsf-logo.png" alt="U.S. National Science Foundation logo">
   </a>
-</aside>
+</footer>
 
 <style>
   .support-badge {
-    position: fixed;
-    right: 16px;
-    top: 50%;
-    transform: translateY(-50%);
-    background: #fff;
-    border: 1px solid rgba(0,0,0,.1);
-    border-radius: 12px;
+    margin-top: 40px;        /* spacing above footer */
     padding: 10px;
-    text-align: center;
-    box-shadow: 0 4px 12px rgba(0,0,0,.15);
-    z-index: 9999;
+    text-align: right;       /* push to the right side */
     font-family: sans-serif;
   }
   .support-badge .label {
@@ -128,7 +120,8 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
     color: #222;
   }
   .support-badge img {
-    width: 60px; /* adjust this number to resize logo */
+    width: 60px;  /* adjust size if needed */
     height: auto;
+    vertical-align: middle;
   }
 </style>
