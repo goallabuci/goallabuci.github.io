@@ -99,9 +99,36 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
     </ul>
 
 <aside class="support-badge" aria-label="Sponsorship badge">
-    <span class="label">Supported by</span>
-    <a href="https://www.nsf.gov" target="_blank" rel="noopener">
-      <!-- Replace src with your actual logo path or URL -->
-      <img src="nsf-logo.png" alt="National Science Foundation (NSF) logo">
-    </a>
-  </aside>
+  <span class="label">Supported by</span>
+  <a href="https://www.nsf.gov" target="_blank" rel="noopener">
+    <img src="nsf-logo.png" alt="U.S. National Science Foundation logo">
+  </a>
+</aside>
+
+<style>
+  .support-badge {
+    position: fixed;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #fff;
+    border: 1px solid rgba(0,0,0,.1);
+    border-radius: 12px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,.15);
+    z-index: 9999;
+    font-family: sans-serif;
+  }
+  .support-badge .label {
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    color: #222;
+  }
+  .support-badge img {
+    width: 60px; /* adjust this number to resize logo */
+    height: auto;
+  }
+</style>
