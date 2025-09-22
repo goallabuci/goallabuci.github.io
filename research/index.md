@@ -10,6 +10,33 @@ nav:
 
 {% include section.html %}
 <div class="citation_title" align="left">
+      <a href="https://arxiv.org/abs/2502.08519">
+     The Complexity of Symmetric Equilibria in Min-Max Optimization and Team Zero-Sum Games
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Ioannis Anagnostides, Ioannis Panageas, Tuomas Sandholm and Jingming Yan 
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">NeurIPS 2025</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://panageas.github.io">
+     Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+     Andreas Kontogiannis, Vasilis Pollatos, Gabriele Farina, Panayotis Mertikopoulos and Ioannis Panageas
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">NeurIPS 2025</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://panageas.github.io">
+     The Complexity of Finding Local Optima in Contrastive Learning
+      </a>
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Jingming Yan, Yiyuan Luo, Vaggos Chatziafratis, Ioannis Panageas, Parnian Shahkar and Stelios Stavroulakis
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">NeurIPS 2025</a></div>
+<br>
+
+<div class="citation_title" align="left">
       <a href="https://arxiv.org/abs/2410.05673">
      Learning Equilibria in Adversarial Team Markov Games: A Nonconvex-Hidden-Concave Min-Max Optimization Problem
       </a>
