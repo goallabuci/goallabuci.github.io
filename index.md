@@ -83,8 +83,8 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
 
 # <font color="red">Latest NEWS:</font>
   <ul>
-    <li> 9/2025 Three papers accepted in NeurIPS 2025, one <a href="https://arxiv.org/abs/2502.08519">spotlight</a>.</li>
-    <li> 4/2025 Received an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2454115&HistoricalAwards=false">NSF grant<a/>.</li> 
+    <li> 9/2025 Three papers accepted in NeurIPS 2025, one <a href="https://arxiv.org/abs/2502.08519">spotlight.</a></li>
+    <li> 4/2025 Received an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2454115&HistoricalAwards=false">NSF grant.<a/></li> 
     <li> 9/2024 One paper accepted in NeurIPS 2024. </li>
     <li> 9/2024 Two papers accepted in WINE 2024. </li>
     <li> 5/2024 One paper accepted in ICML 2024. </li>
