@@ -28,7 +28,7 @@ nav:
 <br>
 
 <div class="citation_title" align="left">
-      <a href="https://panageas.github.io">
+      <a href="https://arxiv.org/abs/2509.16898">
      The Complexity of Finding Local Optima in Contrastive Learning
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
