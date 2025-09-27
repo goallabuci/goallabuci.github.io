@@ -83,7 +83,7 @@ nav:
     </span><span class="portrait_description">
       PhD Student
     </span></a>
-    <a href="https://panageas.github.io/" class="portrait" style="--width: 150px">
+    <a href="https://rmchauhan03.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/rohan.jpg"
