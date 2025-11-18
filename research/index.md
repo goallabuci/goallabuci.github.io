@@ -12,7 +12,7 @@ nav:
 <div class="citation_title" align="left">
       <a href="https://arxiv.org/abs/2502.08519">
      The Complexity of Symmetric Equilibria in Min-Max Optimization and Team Zero-Sum Games
-      </a>
+      </a> 
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Ioannis Anagnostides, Ioannis Panageas, Tuomas Sandholm and Jingming Yan 
     </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">NeurIPS 2025</a></div>
