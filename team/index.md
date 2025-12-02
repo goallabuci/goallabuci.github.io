@@ -33,18 +33,6 @@ nav:
     </span><span class="portrait_description">
       PhD Student
     </span></a>
-<a href="https://steliostavroulakis.github.io/" class="portrait" style="--width: 150px">
-<span class="portrait_image">
-    <img
-      src="/images/portraits/Stavroulakis.jpg"
-      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
-      loading="lazy"
-      alt="Stelios Stavroulakis">
-  </span><span class="portrait_name">
-      Stelios Stavroulakis
-    </span><span class="portrait_description">
-      PhD Student
-    </span></a>
 <a href="https://jingming-yan.github.io/" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
@@ -143,6 +131,7 @@ nav:
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (now Assistant Professor at SDU) <br>
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en) (now at Stanford) <br>
 [Fivos Kalogiannis](https://fivoskal.github.io/) (now at UCSD) <br>
+[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (now at Quilter)
 
 <strong> Undergraduate Students Alumni </strong> <br>
 
