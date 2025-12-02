@@ -21,7 +21,7 @@ nav:
       Principal Investigator
     </span></a>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=HW3mzYQAAAAJ&hl=en" class="portrait" style="--width: 150px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=HW3mzYQAAAAJ&hl=en" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/nicknewlast.png"
@@ -98,19 +98,6 @@ nav:
     <br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://nmonette.github.io" class="portrait" style="--width: 150px">
-<span class="portrait_image">
-    <img
-      src="/images/portraits/nathan.JPG"
-      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
-      loading="lazy"
-      alt="Nathan Monette"
-    >
-  </span><span class="portrait_name">
-      Nathan Monette
-    </span><span class="portrait_description">
-      Undergrad Student
-    </span></a>
 <a href="" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
@@ -128,15 +115,15 @@ nav:
 {% include section.html %}
 <strong> Graduate students Alumni (in chronological order of graduation) </strong>
 
-[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (now Assistant Professor at SDU) <br>
-[Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en) (now at Stanford) <br>
-[Fivos Kalogiannis](https://fivoskal.github.io/) (now at UCSD) <br>
-[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (now at Quilter)
+[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (=> Assistant Professor at SDU) <br>
+[Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en) (=> Stanford) <br>
+[Fivos Kalogiannis](https://fivoskal.github.io/) (=> UCSD) <br>
+[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (=> Quilter)
 
 <strong> Undergraduate Students Alumni </strong> <br>
 
-[Cem Emir Senyurt](https://www.linkedin.com/in/cem-emir-senyurt-b8b770221/) (now at CMU) <br>
-
+[Cem Emir Senyurt](https://www.linkedin.com/in/cem-emir-senyurt-b8b770221/) (=> CMU) <br>
+[Nathan Monette](https://nmonette.github.io) (=> Oxford)<br>
 
 
 <strong> Collaborators (in alphabetical order)</strong>
