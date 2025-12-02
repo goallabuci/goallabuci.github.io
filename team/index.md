@@ -21,7 +21,7 @@ nav:
       Principal Investigator
     </span></a>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=HW3mzYQAAAAJ&hl=en" class="portrait" style="--width: 150px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=HW3mzYQAAAAJ&hl=en" class="portrait" style="--width: 150px">
 <span class="portrait_image">
     <img
       src="/images/portraits/nicknewlast.png"
@@ -115,15 +115,15 @@ nav:
 {% include section.html %}
 <strong> Graduate students Alumni (in chronological order of graduation) </strong>
 
-[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (=> Assistant Professor at SDU) <br>
-[Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en) (=> Stanford) <br>
-[Fivos Kalogiannis](https://fivoskal.github.io/) (=> UCSD) <br>
-[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (=> Quilter)
+[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (&rarr; Assistant Professor at SDU) <br>
+[Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en) (&rarr; Stanford) <br>
+[Fivos Kalogiannis](https://fivoskal.github.io/) (&rarr; UCSD) <br>
+[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (&rarr; Quilter)
 
 <strong> Undergraduate Students Alumni </strong> <br>
 
-[Cem Emir Senyurt](https://www.linkedin.com/in/cem-emir-senyurt-b8b770221/) (=> CMU) <br>
-[Nathan Monette](https://nmonette.github.io) (=> Oxford)<br>
+[Cem Emir Senyurt](https://www.linkedin.com/in/cem-emir-senyurt-b8b770221/) (&rarr; CMU) <br>
+[Nathan Monette](https://nmonette.github.io) (&rarr; Oxford)<br>
 
 
 <strong> Collaborators (in alphabetical order)</strong>
