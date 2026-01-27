@@ -83,6 +83,8 @@ Our team includes 7 PhD students, multiple undergrads and external collaborators
 
 # <font color="red">Latest NEWS:</font>
   <ul>
+    <li> 1/2026: Two papers accepted in ICLR 2026.  </li>
+    <li> 1/2026: Three papers accepted in AISTATS 2026. </li>
     <li> 9/2025 Three papers accepted in NeurIPS 2025, one <a href="https://arxiv.org/abs/2502.08519">spotlight.</a></li>
     <li> 4/2025 Received an NSF <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2442418">grant.</a></li> 
     <li> 9/2024 One paper accepted in NeurIPS 2024. </li>
