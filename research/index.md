@@ -7,6 +7,51 @@ nav:
 
 # <i class="fas fa-microscope"></i>Recent publications
 
+<div class="citation_title" align="left">
+      <a href="https://arxiv.org/abs/2509.20993">
+    Learning the Inverse Temperature of Ising models under Hard Constraints
+      </a> 
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Rohan Chauhan and Ioannis Panageas 
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">ICLR 2026</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://arxiv.org/abs/2510.17067">
+    Convergence of Regret Matching in Potential Games and Constrained Optimization
+      </a> 
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Ioannis Anagnostides, Emanuel Tewolde, Brian Hu Zhang, Ioannis Panageas, Vincent Conitzer and Tuomas Sandholm 
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AISTATS 2026</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://goallabuci.github.io/research/">
+    Near-Optimal Swap Regret in Combinatorial Bandits
+      </a> 
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Andreas Kontogiannis, Vasilis Pollatos, Panayotis Mertikopoulos and Ioannis Panageas 
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AISTATS 2026</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://goallabuci.github.io/research/">
+     Efficient Uncoupled Learning Dynamics with Last-Iterate Convergence in Bilinear Saddle-Point Problems over Convex Sets under Bandit Feedback
+      </a> 
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Arnab Maiti, Claire Jie Zhang, Kevin Jamieson, Jamie Heather Morgenstern, Ioannis Panageas, Lillian J. Ratliff 
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AISTATS 2026</a></div>
+<br>
+
+<div class="citation_title" align="left">
+      <a href="https://goallabuci.github.io/research/">
+     Convex Markov Games and Beyond: New Proof of Existence, Characterization and Learning Algorithms for Nash Equilibria
+      </a> 
+    </div><div class="citation_authors truncate" align="left" tabindex="0">
+      Anas Barakat, Ioannis Panageas, and Antonios Varvitsiotis 
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AISTATS 2026</a></div>
+<br>
+
 
 {% include section.html %}
 <div class="citation_title" align="left">
