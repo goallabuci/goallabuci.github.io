@@ -48,7 +48,7 @@ nav:
      Convex Markov Games and Beyond: New Proof of Existence, Characterization and Learning Algorithms for Nash Equilibria
       </a> 
     </div><div class="citation_authors truncate" align="left" tabindex="0">
-      Anas Barakat, Ioannis Panageas, and Antonios Varvitsiotis 
+      Anas Barakat, Ioannis Panageas and Antonios Varvitsiotis 
     </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AISTATS 2026</a></div>
 <br>
 
