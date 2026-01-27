@@ -126,7 +126,7 @@ nav:
 [Nathan Monette](https://nmonette.github.io) (&rarr; Oxford)<br>
 
 
-<strong> Collaborators (in alphabetical order)</strong>
+<strong> Frequent Collaborators (in alphabetical order)</strong>
 
 [Ioannis Anagnostides](https://scholar.google.com/citations?user=QVwDo_sAAAAJ&hl=el), [Vaggos Chatziafratis](https://cs.stanford.edu/~vaggos/), [Stratis Skoulakis](http://www.corelab.ntua.gr/~sskoul/), [Luca Viano](https://sites.google.com/view/lucaviano/home-page), [Xiao Wang](https://xiiaowang.github.io/)
 
