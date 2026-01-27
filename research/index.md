@@ -6,7 +6,7 @@ nav:
 ---
 
 # <i class="fas fa-microscope"></i>Recent publications
-
+{% include section.html %}
 <div class="citation_title" align="left">
       <a href="https://arxiv.org/abs/2509.20993">
     Learning the Inverse Temperature of Ising models under Hard Constraints
@@ -22,7 +22,7 @@ nav:
       </a> 
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Ioannis Anagnostides, Emanuel Tewolde, Brian Hu Zhang, Ioannis Panageas, Vincent Conitzer and Tuomas Sandholm 
-    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AISTATS 2026</a></div>
+    </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">ICLR 2026</a></div>
 <br>
 
 <div class="citation_title" align="left">
@@ -52,8 +52,6 @@ nav:
     </div><div class="tags" data-link="https://goallabuci.github.io/research/"><a class="tag" style="color:#ff0000">AISTATS 2026</a></div>
 <br>
 
-
-{% include section.html %}
 <div class="citation_title" align="left">
       <a href="https://arxiv.org/abs/2502.08519">
      The Complexity of Symmetric Equilibria in Min-Max Optimization and Team Zero-Sum Games
