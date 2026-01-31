@@ -126,7 +126,7 @@ nav:
 
 <div class="citation_title" align="left">
       <a href="https://openreview.net/pdf?id=8utTlmhw8v">
-      Learning Nash equilibria in Rank-1 games: Going beyond the Minty Property
+      Learning Nash equilibria in Rank-1 games
       </a>
     </div><div class="citation_authors truncate" align="left" tabindex="0">
       Nikolas Patris and Ioannis Panageas
