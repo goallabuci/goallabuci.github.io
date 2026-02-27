@@ -26,7 +26,7 @@ nav:
 <br>
 
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/research/">
+      <a href="https://arxiv.org/abs/2602.02087">
     Near-Optimal Swap Regret in Combinatorial Bandits
       </a> 
     </div><div class="citation_authors truncate" align="left" tabindex="0">
@@ -35,7 +35,7 @@ nav:
 <br>
 
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/research/">
+      <a href="https://arxiv.org/abs/2602.21436">
      Efficient Uncoupled Learning Dynamics with Last-Iterate Convergence in Bilinear Saddle-Point Problems over Convex Sets under Bandit Feedback
       </a> 
     </div><div class="citation_authors truncate" align="left" tabindex="0">
@@ -44,7 +44,7 @@ nav:
 <br>
 
 <div class="citation_title" align="left">
-      <a href="https://goallabuci.github.io/research/">
+      <a href="https://arxiv.org/abs/2602.12181">
      Convex Markov Games and Beyond: New Proof of Existence, Characterization and Learning Algorithms for Nash Equilibria
       </a> 
     </div><div class="citation_authors truncate" align="left" tabindex="0">
