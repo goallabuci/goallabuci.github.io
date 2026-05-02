@@ -83,6 +83,7 @@ Our team includes 6 PhD students, multiple undergrads and external collaborators
 
 # <font color="red">Latest NEWS:</font>
   <ul>
+    <li> 5/2026: Two papers accepted in ICML 2026, one spotlight.  </li>
     <li> 1/2026: Two papers accepted in ICLR 2026.  </li>
     <li> 1/2026: Three papers accepted in AISTATS 2026. </li>
     <li> 9/2025 Three papers accepted in NeurIPS 2025, one <a href="https://arxiv.org/abs/2502.08519">spotlight.</a></li>
